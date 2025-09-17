@@ -1,0 +1,5 @@
+triggerId,id,speaker,message,portrait,isNarration,action
+Minchan_Intro,0,민찬,배고파,minchan.png,false,
+Minchan_Intro,1,류진,밥 먹어라,ryujin.png,false,GiveItem:rice
+Item_Ring_01,0,나,예쁜 반지다.,,true,GiveItem:ring
+Item_Ring_01,1,나,가져가자.,,true,

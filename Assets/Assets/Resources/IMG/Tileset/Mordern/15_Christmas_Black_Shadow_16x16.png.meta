@@ -1,0 +1,5339 @@
+fileFormatVersion: 2
+guid: 58228fb55e55f0948b654a733810af34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6211245299768806328
+    second: 15_Christmas_Black_Shadow_16x16_0
+  - first:
+      213: -921961155744530187
+    second: 15_Christmas_Black_Shadow_16x16_1
+  - first:
+      213: 2594333847280425643
+    second: 15_Christmas_Black_Shadow_16x16_2
+  - first:
+      213: -3690207188445144820
+    second: 15_Christmas_Black_Shadow_16x16_3
+  - first:
+      213: -3748319618826134008
+    second: 15_Christmas_Black_Shadow_16x16_4
+  - first:
+      213: 5178200743012420882
+    second: 15_Christmas_Black_Shadow_16x16_5
+  - first:
+      213: 3813590617826478489
+    second: 15_Christmas_Black_Shadow_16x16_6
+  - first:
+      213: -7335259817984595372
+    second: 15_Christmas_Black_Shadow_16x16_7
+  - first:
+      213: -3773114343706087422
+    second: 15_Christmas_Black_Shadow_16x16_8
+  - first:
+      213: -7328312341271616951
+    second: 15_Christmas_Black_Shadow_16x16_9
+  - first:
+      213: 8528529514674223276
+    second: 15_Christmas_Black_Shadow_16x16_10
+  - first:
+      213: 7853631443841581250
+    second: 15_Christmas_Black_Shadow_16x16_11
+  - first:
+      213: -710218612071859804
+    second: 15_Christmas_Black_Shadow_16x16_12
+  - first:
+      213: 7769697647474729221
+    second: 15_Christmas_Black_Shadow_16x16_13
+  - first:
+      213: -5946989121261564610
+    second: 15_Christmas_Black_Shadow_16x16_14
+  - first:
+      213: 5562881926638561511
+    second: 15_Christmas_Black_Shadow_16x16_15
+  - first:
+      213: -6523639276260958581
+    second: 15_Christmas_Black_Shadow_16x16_16
+  - first:
+      213: -7732487425091154511
+    second: 15_Christmas_Black_Shadow_16x16_17
+  - first:
+      213: 7855877199915831618
+    second: 15_Christmas_Black_Shadow_16x16_18
+  - first:
+      213: -7069123919278287968
+    second: 15_Christmas_Black_Shadow_16x16_19
+  - first:
+      213: 2190920702670181211
+    second: 15_Christmas_Black_Shadow_16x16_20
+  - first:
+      213: 3024118040381223392
+    second: 15_Christmas_Black_Shadow_16x16_21
+  - first:
+      213: 7578671990737891998
+    second: 15_Christmas_Black_Shadow_16x16_22
+  - first:
+      213: -6451239363097631461
+    second: 15_Christmas_Black_Shadow_16x16_23
+  - first:
+      213: -3548066974384615881
+    second: 15_Christmas_Black_Shadow_16x16_24
+  - first:
+      213: 6166784170362261094
+    second: 15_Christmas_Black_Shadow_16x16_25
+  - first:
+      213: 9091752164349628196
+    second: 15_Christmas_Black_Shadow_16x16_26
+  - first:
+      213: 5807896626394019311
+    second: 15_Christmas_Black_Shadow_16x16_27
+  - first:
+      213: -114385100881505583
+    second: 15_Christmas_Black_Shadow_16x16_28
+  - first:
+      213: -3031239792755947871
+    second: 15_Christmas_Black_Shadow_16x16_29
+  - first:
+      213: -4032436761459180743
+    second: 15_Christmas_Black_Shadow_16x16_30
+  - first:
+      213: -6128917367999766861
+    second: 15_Christmas_Black_Shadow_16x16_31
+  - first:
+      213: 1467498772707641999
+    second: 15_Christmas_Black_Shadow_16x16_32
+  - first:
+      213: 8867460683120705027
+    second: 15_Christmas_Black_Shadow_16x16_33
+  - first:
+      213: -1764049357842050600
+    second: 15_Christmas_Black_Shadow_16x16_34
+  - first:
+      213: 735284597713215857
+    second: 15_Christmas_Black_Shadow_16x16_35
+  - first:
+      213: -7164400829913005740
+    second: 15_Christmas_Black_Shadow_16x16_36
+  - first:
+      213: -5801517061752062054
+    second: 15_Christmas_Black_Shadow_16x16_37
+  - first:
+      213: 5676876847811328121
+    second: 15_Christmas_Black_Shadow_16x16_38
+  - first:
+      213: 8973650728122225560
+    second: 15_Christmas_Black_Shadow_16x16_39
+  - first:
+      213: 6920939835019723084
+    second: 15_Christmas_Black_Shadow_16x16_40
+  - first:
+      213: -5969027688474409343
+    second: 15_Christmas_Black_Shadow_16x16_41
+  - first:
+      213: 2737589337859258186
+    second: 15_Christmas_Black_Shadow_16x16_42
+  - first:
+      213: 7287304704090669271
+    second: 15_Christmas_Black_Shadow_16x16_43
+  - first:
+      213: 2412486079429189394
+    second: 15_Christmas_Black_Shadow_16x16_44
+  - first:
+      213: 6070497309837613401
+    second: 15_Christmas_Black_Shadow_16x16_45
+  - first:
+      213: 863606051051291396
+    second: 15_Christmas_Black_Shadow_16x16_46
+  - first:
+      213: 5163913840268272194
+    second: 15_Christmas_Black_Shadow_16x16_47
+  - first:
+      213: -333177004824791841
+    second: 15_Christmas_Black_Shadow_16x16_48
+  - first:
+      213: -6718607289295807948
+    second: 15_Christmas_Black_Shadow_16x16_49
+  - first:
+      213: 2535283439481716863
+    second: 15_Christmas_Black_Shadow_16x16_50
+  - first:
+      213: -5628034737265057917
+    second: 15_Christmas_Black_Shadow_16x16_51
+  - first:
+      213: -489822787542538236
+    second: 15_Christmas_Black_Shadow_16x16_52
+  - first:
+      213: -3804966989554851545
+    second: 15_Christmas_Black_Shadow_16x16_53
+  - first:
+      213: 6584010746848596032
+    second: 15_Christmas_Black_Shadow_16x16_54
+  - first:
+      213: 1205920222043075473
+    second: 15_Christmas_Black_Shadow_16x16_55
+  - first:
+      213: 5400192022782936241
+    second: 15_Christmas_Black_Shadow_16x16_56
+  - first:
+      213: -4253126074727827001
+    second: 15_Christmas_Black_Shadow_16x16_57
+  - first:
+      213: 9071391912114657544
+    second: 15_Christmas_Black_Shadow_16x16_58
+  - first:
+      213: -4026557923602264081
+    second: 15_Christmas_Black_Shadow_16x16_59
+  - first:
+      213: 7113412246853361327
+    second: 15_Christmas_Black_Shadow_16x16_60
+  - first:
+      213: 3107719770993951442
+    second: 15_Christmas_Black_Shadow_16x16_61
+  - first:
+      213: 4355737979571987764
+    second: 15_Christmas_Black_Shadow_16x16_62
+  - first:
+      213: -7500569682741969974
+    second: 15_Christmas_Black_Shadow_16x16_63
+  - first:
+      213: -1159121986717485518
+    second: 15_Christmas_Black_Shadow_16x16_64
+  - first:
+      213: -4270194845605462023
+    second: 15_Christmas_Black_Shadow_16x16_65
+  - first:
+      213: -5883334097081035876
+    second: 15_Christmas_Black_Shadow_16x16_66
+  - first:
+      213: -5173256678152914070
+    second: 15_Christmas_Black_Shadow_16x16_67
+  - first:
+      213: 1500786696242326980
+    second: 15_Christmas_Black_Shadow_16x16_68
+  - first:
+      213: 3427148416676447959
+    second: 15_Christmas_Black_Shadow_16x16_69
+  - first:
+      213: 4842173927664739923
+    second: 15_Christmas_Black_Shadow_16x16_70
+  - first:
+      213: 8432171619194717746
+    second: 15_Christmas_Black_Shadow_16x16_71
+  - first:
+      213: -6769728080109268051
+    second: 15_Christmas_Black_Shadow_16x16_72
+  - first:
+      213: -2995737430271282233
+    second: 15_Christmas_Black_Shadow_16x16_73
+  - first:
+      213: -5958259173221157085
+    second: 15_Christmas_Black_Shadow_16x16_74
+  - first:
+      213: -1406995723736036588
+    second: 15_Christmas_Black_Shadow_16x16_75
+  - first:
+      213: -8725849180223553281
+    second: 15_Christmas_Black_Shadow_16x16_76
+  - first:
+      213: 8115528170252354756
+    second: 15_Christmas_Black_Shadow_16x16_77
+  - first:
+      213: 5181194556865343396
+    second: 15_Christmas_Black_Shadow_16x16_78
+  - first:
+      213: -6951224669358768783
+    second: 15_Christmas_Black_Shadow_16x16_79
+  - first:
+      213: 9104922936692069091
+    second: 15_Christmas_Black_Shadow_16x16_80
+  - first:
+      213: 8064370823382144829
+    second: 15_Christmas_Black_Shadow_16x16_81
+  - first:
+      213: 8279234693279418713
+    second: 15_Christmas_Black_Shadow_16x16_82
+  - first:
+      213: -7115324009530644087
+    second: 15_Christmas_Black_Shadow_16x16_83
+  - first:
+      213: -5365356940538842636
+    second: 15_Christmas_Black_Shadow_16x16_84
+  - first:
+      213: -460935908611044960
+    second: 15_Christmas_Black_Shadow_16x16_85
+  - first:
+      213: -6316167449034394465
+    second: 15_Christmas_Black_Shadow_16x16_86
+  - first:
+      213: -360698259422755697
+    second: 15_Christmas_Black_Shadow_16x16_87
+  - first:
+      213: -663475500793584379
+    second: 15_Christmas_Black_Shadow_16x16_88
+  - first:
+      213: 8703504882792209788
+    second: 15_Christmas_Black_Shadow_16x16_89
+  - first:
+      213: 7273028395265224877
+    second: 15_Christmas_Black_Shadow_16x16_90
+  - first:
+      213: -3870829029205679844
+    second: 15_Christmas_Black_Shadow_16x16_91
+  - first:
+      213: 8731811557769621080
+    second: 15_Christmas_Black_Shadow_16x16_92
+  - first:
+      213: -3108577148630171352
+    second: 15_Christmas_Black_Shadow_16x16_93
+  - first:
+      213: 1883583022066186592
+    second: 15_Christmas_Black_Shadow_16x16_94
+  - first:
+      213: 8115451899043327811
+    second: 15_Christmas_Black_Shadow_16x16_95
+  - first:
+      213: 9090708199997064802
+    second: 15_Christmas_Black_Shadow_16x16_96
+  - first:
+      213: 7443664277381504145
+    second: 15_Christmas_Black_Shadow_16x16_97
+  - first:
+      213: -1615200819571808775
+    second: 15_Christmas_Black_Shadow_16x16_98
+  - first:
+      213: -1204543222137947939
+    second: 15_Christmas_Black_Shadow_16x16_99
+  - first:
+      213: -331688632610018816
+    second: 15_Christmas_Black_Shadow_16x16_100
+  - first:
+      213: -6616608084356749964
+    second: 15_Christmas_Black_Shadow_16x16_101
+  - first:
+      213: 5580404468981658282
+    second: 15_Christmas_Black_Shadow_16x16_102
+  - first:
+      213: -1677390479211951438
+    second: 15_Christmas_Black_Shadow_16x16_103
+  - first:
+      213: 6724919498605887491
+    second: 15_Christmas_Black_Shadow_16x16_104
+  - first:
+      213: 1192178615649649459
+    second: 15_Christmas_Black_Shadow_16x16_105
+  - first:
+      213: -8124884186932442754
+    second: 15_Christmas_Black_Shadow_16x16_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8443776fe493dc9a0800000000000000
+      internalID: -6211245299768806328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0832fa6398433f0800000000000000
+      internalID: -921961155744530187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa1ce383ece00420800000000000000
+      internalID: 2594333847280425643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0952291d10c9ccc0800000000000000
+      internalID: -3690207188445144820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e9d378a2b4bfbc0800000000000000
+      internalID: -3748319618826134008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d4be6f32aacd740800000000000000
+      internalID: 5178200743012420882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9994f4e26789ce430800000000000000
+      internalID: 3813590617826478489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae4d53f0ce33a90800000000000000
+      internalID: -7335259817984595372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b776ce7433abc0800000000000000
+      internalID: -3773114343706087422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942e46fa0ca9c4a90800000000000000
+      internalID: -7328312341271616951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87792586c6b5670800000000000000
+      internalID: 8528529514674223276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c004071034bdfc60800000000000000
+      internalID: 7853631443841581250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f59a6febc426f0800000000000000
+      internalID: -710218612071859804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5016be148d283db60800000000000000
+      internalID: 7769697647474729221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d871817ec087da0800000000000000
+      internalID: -5946989121261564610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86bbc83a3533d40800000000000000
+      internalID: 5562881926638561511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8edda754a06775a0800000000000000
+      internalID: -6523639276260958581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd4445c7afa0b490800000000000000
+      internalID: -7732487425091154511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241d21ce0bea50d60800000000000000
+      internalID: 7855877199915831618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3533ecf3d65ed90800000000000000
+      internalID: -7069123919278287968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5394b565c6b76e10800000000000000
+      internalID: 2190920702670181211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f5c3d553d7f920800000000000000
+      internalID: 3024118040381223392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927225a50adc2960800000000000000
+      internalID: 7578671990737891998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156c89baf79876a0800000000000000
+      internalID: -6451239363097631461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8280a2ebb2cec0800000000000000
+      internalID: -3548066974384615881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ec1f8a781d49550800000000000000
+      internalID: 6166784170362261094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc2fd5c646c2e70800000000000000
+      internalID: 9091752164349628196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5b76cc53bc99050800000000000000
+      internalID: 5807896626394019311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d25c565b5f996ef0800000000000000
+      internalID: -114385100881505583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6c0cbf77fdee5d0800000000000000
+      internalID: -3031239792755947871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bbff55128e908c0800000000000000
+      internalID: -4032436761459180743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed6ae4026b1faa0800000000000000
+      internalID: -6128917367999766861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a8f8fcb5a9d5410800000000000000
+      internalID: 1467498772707641999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef62d628c8f0b70800000000000000
+      internalID: 8867460683120705027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d191939476d487e0800000000000000
+      internalID: -1764049357842050600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17123872271443a00800000000000000
+      internalID: 735284597713215857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518580676fe29c90800000000000000
+      internalID: -7164400829913005740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f76e758fedc7fa0800000000000000
+      internalID: -5801517061752062054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978fe6b6a6158ce40800000000000000
+      internalID: 5676876847811328121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8939624facfc88c70800000000000000
+      internalID: 8973650728122225560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41833a7c1e1c0060800000000000000
+      internalID: 6920939835019723084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186030e41f0c92da0800000000000000
+      internalID: -5969027688474409343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477ff79ffeddf520800000000000000
+      internalID: 2737589337859258186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d08b51c405b12560800000000000000
+      internalID: 7287304704090669271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f93fdae4fda7120800000000000000
+      internalID: 2412486079429189394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d5d2f32dbe3450800000000000000
+      internalID: 6070497309837613401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4034acab0252cfb00800000000000000
+      internalID: 863606051051291396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e9e33748e9a740800000000000000
+      internalID: 5163913840268272194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f6148741506bf0800000000000000
+      internalID: -333177004824791841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5c206446b2c2a0800000000000000
+      internalID: -6718607289295807948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700d3f0bd22f2320800000000000000
+      internalID: 2535283439481716863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd1cd993435e1b0800000000000000
+      internalID: -5628034737265057917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a2a915ccc339f0800000000000000
+      internalID: -489822787542538236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721ee7dbeaa023bc0800000000000000
+      internalID: -3804966989554851545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040d34304ea1f5b50800000000000000
+      internalID: 6584010746848596032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193765e7d0a4cb010800000000000000
+      internalID: 1205920222043075473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b400e4880651fa40800000000000000
+      internalID: 5400192022782936241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c975ea7e5cd9f4c0800000000000000
+      internalID: -4253126074727827001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80912fbb1ee04ed70800000000000000
+      internalID: 9071391912114657544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0720f6eace18c0800000000000000
+      internalID: -4026557923602264081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae9b9200cae7b260800000000000000
+      internalID: 7113412246853361327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d28d839aa6d02b20800000000000000
+      internalID: 3107719770993951442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435e01f5d90b27c30800000000000000
+      internalID: 4355737979571987764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb91ffc9f98e790800000000000000
+      internalID: -7500569682741969974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236fb52c1b8f9efe0800000000000000
+      internalID: -1159121986717485518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff7bf199683db4c0800000000000000
+      internalID: -4270194845605462023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939a885fc23a5ea0800000000000000
+      internalID: -5883334097081035876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b37c6d576e438b0800000000000000
+      internalID: -5173256678152914070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde7297c8dd3d410800000000000000
+      internalID: 1500786696242326980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6ca80c35daf8f20800000000000000
+      internalID: 3427148416676447959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3566d13488bd23340800000000000000
+      internalID: 4842173927664739923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2364b3f7967150570800000000000000
+      internalID: 8432171619194717746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3991fbd281d02a0800000000000000
+      internalID: -6769728080109268051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3b654eda00d66d0800000000000000
+      internalID: -2995737430271282233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327b074a9d2005da0800000000000000
+      internalID: -5958259173221157085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b483608d8597ce0800000000000000
+      internalID: -1406995723736036588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04421f66e87e680800000000000000
+      internalID: -8725849180223553281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c441987fd520a070800000000000000
+      internalID: 8115528170252354756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af65229ffc47e740800000000000000
+      internalID: 5181194556865343396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d30fc0ef9488f90800000000000000
+      internalID: -6951224669358768783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e256d4cb2f2b5e70800000000000000
+      internalID: 9104922936692069091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3797b879866aef60800000000000000
+      internalID: 8064370823382144829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95982099610c5e270800000000000000
+      internalID: 8279234693279418713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9892e1e038a414d90800000000000000
+      internalID: -7115324009530644087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1710a1a4c6a85b0800000000000000
+      internalID: -5365356940538842636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a94407bb3d6a99f0800000000000000
+      internalID: -460935908611044960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f947b6a6b277858a0800000000000000
+      internalID: -6316167449034394465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84410818da8efaf0800000000000000
+      internalID: -360698259422755697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505260a1c8cdac6f0800000000000000
+      internalID: -663475500793584379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d15b7e39f09c870800000000000000
+      internalID: 8703504882792209788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0fc159accfee460800000000000000
+      internalID: 7273028395265224877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ece7a18d084ac0800000000000000
+      internalID: -3870829029205679844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e22824950ad2970800000000000000
+      internalID: 8731811557769621080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8218003ad8d1cd4d0800000000000000
+      internalID: -3108577148630171352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069363767c4d32a10800000000000000
+      internalID: 1883583022066186592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2f323180ef9070800000000000000
+      internalID: 8115451899043327811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664e8971fea82e70800000000000000
+      internalID: 9090708199997064802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd698d8353d4760800000000000000
+      internalID: 7443664277381504145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a08c8967a599e0800000000000000
+      internalID: -1615200819571808775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8fcd7425a984fe0800000000000000
+      internalID: -1204543222137947939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aae3d22fa956bf0800000000000000
+      internalID: -331688632610018816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47520f9e0061d24a0800000000000000
+      internalID: -6616608084356749964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa277ac5c44917d40800000000000000
+      internalID: 5580404468981658282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba03f01f36b8b8e0800000000000000
+      internalID: -1677390479211951438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300808167a6b35d50800000000000000
+      internalID: 6724919498605887491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334d9e62287b8010800000000000000
+      internalID: 1192178615649649459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7904b421ec9e3f80800000000000000
+      internalID: -8124884186932442754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153fff1648df59e4d8d0bdfa98214a6d
+      internalID: 1621114657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58303b456b3c9c749b4371ad8c5c12cb
+      internalID: -1439347518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a7b09350ac234e87daa523f2cfdef
+      internalID: 1163356466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d5b80b0fe8034186cfcb3d52fe439
+      internalID: -1492791359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b71bafd5f875c44a4ca05b323a0abc
+      internalID: -984684999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201e9048efb98914bb0cd7030fd83f78
+      internalID: 704582931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5d511997f98c64d8a44c2426d9ec76
+      internalID: 112109894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ea903311bc3944b643ce0da12b6d1
+      internalID: -1492943406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd2fba53d4c934a80e433c5fe1a9d5
+      internalID: -1376794223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af496e2299113b46a2cda8a109b1f53
+      internalID: -1026509174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deabb443ba5ec714c93ee5d4999d5f67
+      internalID: 1414926455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0e8a804d8a4ae4dbc55fc2eb4913b9
+      internalID: -1319781814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90537d11bcb7554ca20d5b9a66a68b2
+      internalID: -1407821371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ac230d5a6d254b9498085c2048131
+      internalID: -2024123794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590e327a83751264e99e1d03c789db56
+      internalID: 2011375475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61f8f9ae03a5347abfd307e5f3825e
+      internalID: -771053112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279760a3281499d46ab57f323acfa804
+      internalID: -140386027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dd4b91ec8cf64e94bf59a1357e879
+      internalID: -1556574339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379d7945649609f43806c531b503441c
+      internalID: -1130305507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563156ed1ab62af4ebe4d238ebb428bc
+      internalID: 755945240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4ae4bdfc322a428e3ef72c67b6324
+      internalID: -700925890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19e1b19b2343dc4c92075ec6d6c9706
+      internalID: 181402253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce4f60552676be4ea2cff4621c3348f
+      internalID: 1668723872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a705c4426deb84da42a2a6d5adcd2d
+      internalID: 1228713756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5dafe14c0019c4685624ade1ff5fd0
+      internalID: 663459047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c0628153fa9a4490716e1b8afcdaf
+      internalID: 655101563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9c6ef5b6d36141b77eb49faa72b06
+      internalID: 1109394509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee23237fe54184485aaa90dfe5d29f
+      internalID: 2008049248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd221cfe8b81a40856342905b236f7
+      internalID: 1832604793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06377518b081545855aa0b04a48517
+      internalID: -1555736367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e1200fe79ea04da3901b221e72c7f
+      internalID: -755370090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483d67a66d7434499be64774fb956c8
+      internalID: -766581144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09357279c5157c64db03f0cac754779d
+      internalID: 1544087889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8c77ae47bc7649ae0bd259b006c57
+      internalID: -499320047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d0bd8fa0d301046affb030d2682297
+      internalID: 215743985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7db011ce48a9ee40ba6702dacc4837a
+      internalID: 2123785576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f40643b34925154a99686e84184bbcb
+      internalID: 423870387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6033b227ad8846a163524b6ad02bf
+      internalID: 1295898925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f689f0bd2ad7e9f4e83b0496e616b960
+      internalID: -831549367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd84c5959ad8e40ad3ace6757a89fb
+      internalID: -1378256656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36247ce1a4db9c4f96577a73200f7e2
+      internalID: 1470720811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0271bb5aa1ef4408505f05e19219fd
+      internalID: 567992932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ec8362361db34d9254d6a1db59b7a
+      internalID: -1925122009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edec3a27ce8dac44ab968892666cec8
+      internalID: -924411732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c3b7da14acc04f8e1401237c1980a
+      internalID: 1605132252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24093c445d414a944991afc4e461f28a
+      internalID: -1440929115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287aefb599adac4b9dfa8d4f3abf174
+      internalID: -1675324831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5df0ec883e3fc43b20559d2afae167
+      internalID: 620581491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398aab70f1f6024a8090c3b555a66f3
+      internalID: -472482610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af942c3496fdd4646a4adce45f8752de
+      internalID: -1238662512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39469ccd9bb1ba2478e2dc1536437654
+      internalID: -1291094690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde891d3d7d70d47b9ab16b10759db3
+      internalID: -239929451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcf3881a6181d449cc1333d5c6f03e
+      internalID: 543983116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20749ee847ca847b59d9b0cbdb5aa2
+      internalID: -325550198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80935a25218cbd4f977b180332a1d5e
+      internalID: 1185416103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71415e8aaaff4be40948bf679b391d62
+      internalID: -1255762368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adba8a6283737ee46ae8bf9418f4e8a5
+      internalID: 665372213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761028d273db0204383e82694296aec2
+      internalID: -814764361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c513cf00de9a647a12172e91f69823
+      internalID: -447250584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0054c73c4d58f2f43a623c96df27a7db
+      internalID: 463127366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd4a7709816c643a8909d4cbbc253b
+      internalID: -71384078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de445b76fc6557428412f8f1123a7e2
+      internalID: -390729804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f053f80a7cb3744be61b04245259ef
+      internalID: 418419502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36241550c08354a89f6a24384e3a52
+      internalID: -383514061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d591be7fea181f4594499fc10230e9a
+      internalID: 1940812327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefd044ed0def874590905554d05b3b3
+      internalID: -2010135332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484725c54576be84ab312a5b37573c80
+      internalID: 1942476385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609db6d385191ac4f9932f51aadb82b0
+      internalID: -282076761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ddb5457e3778e48939bd0c24ac2415
+      internalID: 1839632373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b06d706648e6434d8d9cbcaf0847d5e
+      internalID: -776949947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68924b5be383b4d40b49c1c88c4853d3
+      internalID: -972067256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf48e794fdab1048a456f15131a8971
+      internalID: 951242620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157544ab6f792024e83995b4b0745b89
+      internalID: 387277414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4abe6e70b9574b958bfcdd953c8b2
+      internalID: -395246180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1d94ff4149124e8ac8cafadea8478
+      internalID: -1669228632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72b154fec0054469f3251d899432d8
+      internalID: 445759446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca526f39360744cba870feaadbc5fd
+      internalID: -383103859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17ad7671c49ff4f9cf7a14ebae8ed0
+      internalID: -909718632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e3ed0be83e514aa9258ee501d7557
+      internalID: 2022830415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6322d9be5048441bfc79cf46acf6d4
+      internalID: 645958964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2051a0756f3e9254d990d1987070c13b
+      internalID: -1403300758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07064ca7c3a7654190605b996b52c2f
+      internalID: -830900984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5969df187c11945925b8a9e969175f
+      internalID: -58273514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62156dba49d02d4fbbf831abd5836fc
+      internalID: -1728087523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593afe40481ed384b88e851495bedd1b
+      internalID: -950312053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcaf8b81faa72a429a2880eef3c3b3e
+      internalID: 65904739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_193
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6687243f2c76a4ba599c51c850b84f
+      internalID: 635150731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0793c1a226860654996e23c679875217
+      internalID: 806311040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb4bf88859b7842b3890d42d8b4aa9
+      internalID: 970249586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b677a27aab624184187e26d74be02
+      internalID: 1353190279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_197
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1699ba902067541b470ecad47b15e9
+      internalID: -1760600999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_198
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223be62a50f26ff4fb33cd3f02389475
+      internalID: 2041585468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f641b72f9e79d84196b436978cb367b
+      internalID: 2129453127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_200
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2d1c0cbb73274189b70af7b5f8ba1
+      internalID: 1942198284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d475d15c8106d42a1c5f5d91fa613a
+      internalID: 1564214460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_202
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7b168c5173284381e226fa3d8023c
+      internalID: 2014704673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_203
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39eea87a7cd67a49812a125058b37f3
+      internalID: -1289192997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b3c5ce39aca847bbb31b558587f5f
+      internalID: -1567523720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_205
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31cd133eca75f408781539a71d1ef1
+      internalID: 100333515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be02f57b09e1004f8320432004ba41e
+      internalID: -2042855293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_207
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d84eb2779bfc7b47b7b1d15f31feb1c
+      internalID: -2107593051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0811d356378042a05a6548f13b245
+      internalID: -405253005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b65a1688a5527478348d5bc4d66aa4
+      internalID: -150869277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc18d7288e564742a120d1d3cafc48a
+      internalID: -1563260126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_211
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd95547a625af741aaa5f7a91668e2b
+      internalID: -1943491763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15_Christmas_Black_Shadow_16x16_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315f9ec3976ea147ab39fe0fdc6be40
+      internalID: -1478297477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69c231c196e29c844aef6e7c948d7d73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      15_Christmas_Black_Shadow_16x16_0: -6211245299768806328
+      15_Christmas_Black_Shadow_16x16_1: -921961155744530187
+      15_Christmas_Black_Shadow_16x16_10: 8528529514674223276
+      15_Christmas_Black_Shadow_16x16_100: -331688632610018816
+      15_Christmas_Black_Shadow_16x16_101: -6616608084356749964
+      15_Christmas_Black_Shadow_16x16_102: 5580404468981658282
+      15_Christmas_Black_Shadow_16x16_103: -1677390479211951438
+      15_Christmas_Black_Shadow_16x16_104: 6724919498605887491
+      15_Christmas_Black_Shadow_16x16_105: 1192178615649649459
+      15_Christmas_Black_Shadow_16x16_106: -8124884186932442754
+      15_Christmas_Black_Shadow_16x16_107: 1621114657
+      15_Christmas_Black_Shadow_16x16_108: -1439347518
+      15_Christmas_Black_Shadow_16x16_109: 1163356466
+      15_Christmas_Black_Shadow_16x16_11: 7853631443841581250
+      15_Christmas_Black_Shadow_16x16_110: -1492791359
+      15_Christmas_Black_Shadow_16x16_111: -984684999
+      15_Christmas_Black_Shadow_16x16_112: 704582931
+      15_Christmas_Black_Shadow_16x16_113: 112109894
+      15_Christmas_Black_Shadow_16x16_114: -1492943406
+      15_Christmas_Black_Shadow_16x16_115: -1376794223
+      15_Christmas_Black_Shadow_16x16_116: -1026509174
+      15_Christmas_Black_Shadow_16x16_117: 1414926455
+      15_Christmas_Black_Shadow_16x16_118: -1319781814
+      15_Christmas_Black_Shadow_16x16_119: -1407821371
+      15_Christmas_Black_Shadow_16x16_12: -710218612071859804
+      15_Christmas_Black_Shadow_16x16_120: -2024123794
+      15_Christmas_Black_Shadow_16x16_121: 2011375475
+      15_Christmas_Black_Shadow_16x16_122: -771053112
+      15_Christmas_Black_Shadow_16x16_123: -140386027
+      15_Christmas_Black_Shadow_16x16_124: -1556574339
+      15_Christmas_Black_Shadow_16x16_125: -1130305507
+      15_Christmas_Black_Shadow_16x16_126: 755945240
+      15_Christmas_Black_Shadow_16x16_127: -700925890
+      15_Christmas_Black_Shadow_16x16_128: 181402253
+      15_Christmas_Black_Shadow_16x16_129: 1668723872
+      15_Christmas_Black_Shadow_16x16_13: 7769697647474729221
+      15_Christmas_Black_Shadow_16x16_130: 1228713756
+      15_Christmas_Black_Shadow_16x16_131: 663459047
+      15_Christmas_Black_Shadow_16x16_132: 655101563
+      15_Christmas_Black_Shadow_16x16_133: 1109394509
+      15_Christmas_Black_Shadow_16x16_134: 2008049248
+      15_Christmas_Black_Shadow_16x16_135: 1832604793
+      15_Christmas_Black_Shadow_16x16_136: -1555736367
+      15_Christmas_Black_Shadow_16x16_137: -755370090
+      15_Christmas_Black_Shadow_16x16_138: -766581144
+      15_Christmas_Black_Shadow_16x16_139: 1544087889
+      15_Christmas_Black_Shadow_16x16_14: -5946989121261564610
+      15_Christmas_Black_Shadow_16x16_140: -499320047
+      15_Christmas_Black_Shadow_16x16_141: 215743985
+      15_Christmas_Black_Shadow_16x16_142: 2123785576
+      15_Christmas_Black_Shadow_16x16_143: 423870387
+      15_Christmas_Black_Shadow_16x16_144: 1295898925
+      15_Christmas_Black_Shadow_16x16_145: -831549367
+      15_Christmas_Black_Shadow_16x16_146: -1378256656
+      15_Christmas_Black_Shadow_16x16_147: 1470720811
+      15_Christmas_Black_Shadow_16x16_148: 567992932
+      15_Christmas_Black_Shadow_16x16_149: -1925122009
+      15_Christmas_Black_Shadow_16x16_15: 5562881926638561511
+      15_Christmas_Black_Shadow_16x16_150: -924411732
+      15_Christmas_Black_Shadow_16x16_151: 1605132252
+      15_Christmas_Black_Shadow_16x16_152: -1440929115
+      15_Christmas_Black_Shadow_16x16_153: -1675324831
+      15_Christmas_Black_Shadow_16x16_154: 620581491
+      15_Christmas_Black_Shadow_16x16_155: -472482610
+      15_Christmas_Black_Shadow_16x16_156: -1238662512
+      15_Christmas_Black_Shadow_16x16_157: -1291094690
+      15_Christmas_Black_Shadow_16x16_158: -239929451
+      15_Christmas_Black_Shadow_16x16_159: 543983116
+      15_Christmas_Black_Shadow_16x16_16: -6523639276260958581
+      15_Christmas_Black_Shadow_16x16_160: -325550198
+      15_Christmas_Black_Shadow_16x16_161: 1185416103
+      15_Christmas_Black_Shadow_16x16_162: -1255762368
+      15_Christmas_Black_Shadow_16x16_163: 665372213
+      15_Christmas_Black_Shadow_16x16_164: -814764361
+      15_Christmas_Black_Shadow_16x16_165: -447250584
+      15_Christmas_Black_Shadow_16x16_166: 463127366
+      15_Christmas_Black_Shadow_16x16_167: -71384078
+      15_Christmas_Black_Shadow_16x16_168: -390729804
+      15_Christmas_Black_Shadow_16x16_169: 418419502
+      15_Christmas_Black_Shadow_16x16_17: -7732487425091154511
+      15_Christmas_Black_Shadow_16x16_170: -383514061
+      15_Christmas_Black_Shadow_16x16_171: 1940812327
+      15_Christmas_Black_Shadow_16x16_172: -2010135332
+      15_Christmas_Black_Shadow_16x16_173: 1942476385
+      15_Christmas_Black_Shadow_16x16_174: -282076761
+      15_Christmas_Black_Shadow_16x16_175: 1839632373
+      15_Christmas_Black_Shadow_16x16_176: -776949947
+      15_Christmas_Black_Shadow_16x16_177: -972067256
+      15_Christmas_Black_Shadow_16x16_178: 951242620
+      15_Christmas_Black_Shadow_16x16_179: 387277414
+      15_Christmas_Black_Shadow_16x16_18: 7855877199915831618
+      15_Christmas_Black_Shadow_16x16_180: -395246180
+      15_Christmas_Black_Shadow_16x16_181: -1669228632
+      15_Christmas_Black_Shadow_16x16_182: 445759446
+      15_Christmas_Black_Shadow_16x16_183: -383103859
+      15_Christmas_Black_Shadow_16x16_184: -909718632
+      15_Christmas_Black_Shadow_16x16_185: 2022830415
+      15_Christmas_Black_Shadow_16x16_186: 645958964
+      15_Christmas_Black_Shadow_16x16_187: -1403300758
+      15_Christmas_Black_Shadow_16x16_188: -830900984
+      15_Christmas_Black_Shadow_16x16_189: -58273514
+      15_Christmas_Black_Shadow_16x16_19: -7069123919278287968
+      15_Christmas_Black_Shadow_16x16_190: -1728087523
+      15_Christmas_Black_Shadow_16x16_191: -950312053
+      15_Christmas_Black_Shadow_16x16_192: 65904739
+      15_Christmas_Black_Shadow_16x16_193: 635150731
+      15_Christmas_Black_Shadow_16x16_194: 806311040
+      15_Christmas_Black_Shadow_16x16_195: 970249586
+      15_Christmas_Black_Shadow_16x16_196: 1353190279
+      15_Christmas_Black_Shadow_16x16_197: -1760600999
+      15_Christmas_Black_Shadow_16x16_198: 2041585468
+      15_Christmas_Black_Shadow_16x16_199: 2129453127
+      15_Christmas_Black_Shadow_16x16_2: 2594333847280425643
+      15_Christmas_Black_Shadow_16x16_20: 2190920702670181211
+      15_Christmas_Black_Shadow_16x16_200: 1942198284
+      15_Christmas_Black_Shadow_16x16_201: 1564214460
+      15_Christmas_Black_Shadow_16x16_202: 2014704673
+      15_Christmas_Black_Shadow_16x16_203: -1289192997
+      15_Christmas_Black_Shadow_16x16_204: -1567523720
+      15_Christmas_Black_Shadow_16x16_205: 100333515
+      15_Christmas_Black_Shadow_16x16_206: -2042855293
+      15_Christmas_Black_Shadow_16x16_207: -2107593051
+      15_Christmas_Black_Shadow_16x16_208: -405253005
+      15_Christmas_Black_Shadow_16x16_209: -150869277
+      15_Christmas_Black_Shadow_16x16_21: 3024118040381223392
+      15_Christmas_Black_Shadow_16x16_210: -1563260126
+      15_Christmas_Black_Shadow_16x16_211: -1943491763
+      15_Christmas_Black_Shadow_16x16_212: -1478297477
+      15_Christmas_Black_Shadow_16x16_22: 7578671990737891998
+      15_Christmas_Black_Shadow_16x16_23: -6451239363097631461
+      15_Christmas_Black_Shadow_16x16_24: -3548066974384615881
+      15_Christmas_Black_Shadow_16x16_25: 6166784170362261094
+      15_Christmas_Black_Shadow_16x16_26: 9091752164349628196
+      15_Christmas_Black_Shadow_16x16_27: 5807896626394019311
+      15_Christmas_Black_Shadow_16x16_28: -114385100881505583
+      15_Christmas_Black_Shadow_16x16_29: -3031239792755947871
+      15_Christmas_Black_Shadow_16x16_3: -3690207188445144820
+      15_Christmas_Black_Shadow_16x16_30: -4032436761459180743
+      15_Christmas_Black_Shadow_16x16_31: -6128917367999766861
+      15_Christmas_Black_Shadow_16x16_32: 1467498772707641999
+      15_Christmas_Black_Shadow_16x16_33: 8867460683120705027
+      15_Christmas_Black_Shadow_16x16_34: -1764049357842050600
+      15_Christmas_Black_Shadow_16x16_35: 735284597713215857
+      15_Christmas_Black_Shadow_16x16_36: -7164400829913005740
+      15_Christmas_Black_Shadow_16x16_37: -5801517061752062054
+      15_Christmas_Black_Shadow_16x16_38: 5676876847811328121
+      15_Christmas_Black_Shadow_16x16_39: 8973650728122225560
+      15_Christmas_Black_Shadow_16x16_4: -3748319618826134008
+      15_Christmas_Black_Shadow_16x16_40: 6920939835019723084
+      15_Christmas_Black_Shadow_16x16_41: -5969027688474409343
+      15_Christmas_Black_Shadow_16x16_42: 2737589337859258186
+      15_Christmas_Black_Shadow_16x16_43: 7287304704090669271
+      15_Christmas_Black_Shadow_16x16_44: 2412486079429189394
+      15_Christmas_Black_Shadow_16x16_45: 6070497309837613401
+      15_Christmas_Black_Shadow_16x16_46: 863606051051291396
+      15_Christmas_Black_Shadow_16x16_47: 5163913840268272194
+      15_Christmas_Black_Shadow_16x16_48: -333177004824791841
+      15_Christmas_Black_Shadow_16x16_49: -6718607289295807948
+      15_Christmas_Black_Shadow_16x16_5: 5178200743012420882
+      15_Christmas_Black_Shadow_16x16_50: 2535283439481716863
+      15_Christmas_Black_Shadow_16x16_51: -5628034737265057917
+      15_Christmas_Black_Shadow_16x16_52: -489822787542538236
+      15_Christmas_Black_Shadow_16x16_53: -3804966989554851545
+      15_Christmas_Black_Shadow_16x16_54: 6584010746848596032
+      15_Christmas_Black_Shadow_16x16_55: 1205920222043075473
+      15_Christmas_Black_Shadow_16x16_56: 5400192022782936241
+      15_Christmas_Black_Shadow_16x16_57: -4253126074727827001
+      15_Christmas_Black_Shadow_16x16_58: 9071391912114657544
+      15_Christmas_Black_Shadow_16x16_59: -4026557923602264081
+      15_Christmas_Black_Shadow_16x16_6: 3813590617826478489
+      15_Christmas_Black_Shadow_16x16_60: 7113412246853361327
+      15_Christmas_Black_Shadow_16x16_61: 3107719770993951442
+      15_Christmas_Black_Shadow_16x16_62: 4355737979571987764
+      15_Christmas_Black_Shadow_16x16_63: -7500569682741969974
+      15_Christmas_Black_Shadow_16x16_64: -1159121986717485518
+      15_Christmas_Black_Shadow_16x16_65: -4270194845605462023
+      15_Christmas_Black_Shadow_16x16_66: -5883334097081035876
+      15_Christmas_Black_Shadow_16x16_67: -5173256678152914070
+      15_Christmas_Black_Shadow_16x16_68: 1500786696242326980
+      15_Christmas_Black_Shadow_16x16_69: 3427148416676447959
+      15_Christmas_Black_Shadow_16x16_7: -7335259817984595372
+      15_Christmas_Black_Shadow_16x16_70: 4842173927664739923
+      15_Christmas_Black_Shadow_16x16_71: 8432171619194717746
+      15_Christmas_Black_Shadow_16x16_72: -6769728080109268051
+      15_Christmas_Black_Shadow_16x16_73: -2995737430271282233
+      15_Christmas_Black_Shadow_16x16_74: -5958259173221157085
+      15_Christmas_Black_Shadow_16x16_75: -1406995723736036588
+      15_Christmas_Black_Shadow_16x16_76: -8725849180223553281
+      15_Christmas_Black_Shadow_16x16_77: 8115528170252354756
+      15_Christmas_Black_Shadow_16x16_78: 5181194556865343396
+      15_Christmas_Black_Shadow_16x16_79: -6951224669358768783
+      15_Christmas_Black_Shadow_16x16_8: -3773114343706087422
+      15_Christmas_Black_Shadow_16x16_80: 9104922936692069091
+      15_Christmas_Black_Shadow_16x16_81: 8064370823382144829
+      15_Christmas_Black_Shadow_16x16_82: 8279234693279418713
+      15_Christmas_Black_Shadow_16x16_83: -7115324009530644087
+      15_Christmas_Black_Shadow_16x16_84: -5365356940538842636
+      15_Christmas_Black_Shadow_16x16_85: -460935908611044960
+      15_Christmas_Black_Shadow_16x16_86: -6316167449034394465
+      15_Christmas_Black_Shadow_16x16_87: -360698259422755697
+      15_Christmas_Black_Shadow_16x16_88: -663475500793584379
+      15_Christmas_Black_Shadow_16x16_89: 8703504882792209788
+      15_Christmas_Black_Shadow_16x16_9: -7328312341271616951
+      15_Christmas_Black_Shadow_16x16_90: 7273028395265224877
+      15_Christmas_Black_Shadow_16x16_91: -3870829029205679844
+      15_Christmas_Black_Shadow_16x16_92: 8731811557769621080
+      15_Christmas_Black_Shadow_16x16_93: -3108577148630171352
+      15_Christmas_Black_Shadow_16x16_94: 1883583022066186592
+      15_Christmas_Black_Shadow_16x16_95: 8115451899043327811
+      15_Christmas_Black_Shadow_16x16_96: 9090708199997064802
+      15_Christmas_Black_Shadow_16x16_97: 7443664277381504145
+      15_Christmas_Black_Shadow_16x16_98: -1615200819571808775
+      15_Christmas_Black_Shadow_16x16_99: -1204543222137947939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

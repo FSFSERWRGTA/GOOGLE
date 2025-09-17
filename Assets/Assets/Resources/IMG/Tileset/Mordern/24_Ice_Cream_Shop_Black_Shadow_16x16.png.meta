@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: 1da7e5156527f174eb301773c51186a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7635666581687667000
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_0
+  - first:
+      213: -7462276976584176363
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_1
+  - first:
+      213: 1858408688227172923
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_2
+  - first:
+      213: -3860858845457611831
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_3
+  - first:
+      213: 4326528014125051848
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_4
+  - first:
+      213: 5512282774496984488
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_5
+  - first:
+      213: -9018771337317864637
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_6
+  - first:
+      213: 6068577251453297017
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_7
+  - first:
+      213: -4879933083251311208
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_8
+  - first:
+      213: 2117042145820769374
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_9
+  - first:
+      213: 8799700956250979416
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_10
+  - first:
+      213: 3769660655364915494
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_11
+  - first:
+      213: -52145942028240764
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_12
+  - first:
+      213: -6434567725686783933
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_13
+  - first:
+      213: -5110954079313444467
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_14
+  - first:
+      213: 4719400811913698926
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_15
+  - first:
+      213: -7925132928576455658
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_16
+  - first:
+      213: -6057956491176774019
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_17
+  - first:
+      213: 4587244433152668616
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_18
+  - first:
+      213: 5964069064916638885
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_19
+  - first:
+      213: 3155335185797043005
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_20
+  - first:
+      213: -1224756832967612303
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_21
+  - first:
+      213: 2731077598531086525
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_22
+  - first:
+      213: 781617180464288914
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_23
+  - first:
+      213: -8462442528059833650
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_24
+  - first:
+      213: -5104023700162531376
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_25
+  - first:
+      213: 8982274670672794728
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_26
+  - first:
+      213: -6916173237838898552
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_27
+  - first:
+      213: -8498734721917506650
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_28
+  - first:
+      213: 5375821207601289134
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_29
+  - first:
+      213: 2243310582883658505
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_30
+  - first:
+      213: -1959605515546305420
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_31
+  - first:
+      213: -7433818866430604684
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_32
+  - first:
+      213: -6027082766894157053
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_33
+  - first:
+      213: 4360548931111834219
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_34
+  - first:
+      213: -6526685134789175207
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_35
+  - first:
+      213: 1438329328721064312
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_36
+  - first:
+      213: 889998957607283031
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_37
+  - first:
+      213: 5233819986151123472
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_38
+  - first:
+      213: -4366530661359356790
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_39
+  - first:
+      213: 1201904562179863292
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_40
+  - first:
+      213: 4832609942182399204
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_41
+  - first:
+      213: 3389822131449345627
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_42
+  - first:
+      213: -4554060317683073728
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_43
+  - first:
+      213: -2733139811657165051
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_44
+  - first:
+      213: 1850142968320879515
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_45
+  - first:
+      213: -3753932897488461299
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_46
+  - first:
+      213: -8355475078930426474
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_47
+  - first:
+      213: -7707434922180309008
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_48
+  - first:
+      213: -510566732932033562
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_49
+  - first:
+      213: 6469669396874182355
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_50
+  - first:
+      213: -4957831268640661233
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_51
+  - first:
+      213: -1876128783459915455
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_52
+  - first:
+      213: 3429944085168111262
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_53
+  - first:
+      213: 2728044784709767898
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_54
+  - first:
+      213: 6219364766141191539
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_55
+  - first:
+      213: -4023094936490272575
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_56
+  - first:
+      213: 8158955994546219043
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_57
+  - first:
+      213: 4438312347061498986
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_58
+  - first:
+      213: 2858623681087714893
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_59
+  - first:
+      213: -1037960777455723970
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_60
+  - first:
+      213: 5871109049342038389
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_61
+  - first:
+      213: 4549744357558385695
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_62
+  - first:
+      213: 8396939030215362387
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_63
+  - first:
+      213: -4691245297786779489
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_64
+  - first:
+      213: 5466767874804537721
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_65
+  - first:
+      213: 1086253067749952817
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_66
+  - first:
+      213: 3886562636951941149
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_67
+  - first:
+      213: 4837481787544186444
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_68
+  - first:
+      213: 5604536345123242792
+    second: 24_Ice_Cream_Shop_Black_Shadow_16x16_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67f2f03b9a80690800000000000000
+      internalID: -7635666581687667000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dcf1b60aaa07890800000000000000
+      internalID: -7462276976584176363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32c74d0bd46ac910800000000000000
+      internalID: 1858408688227172923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30394f5597b6ac0800000000000000
+      internalID: -3860858845457611831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf23b05e4aea0c30800000000000000
+      internalID: 4326528014125051848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb5636aff8f7c40800000000000000
+      internalID: 5512282774496984488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ba1b09043e6d280800000000000000
+      internalID: -9018771337317864637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e3e48bdae73450800000000000000
+      internalID: 6068577251453297017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df02d37bef64cb0800000000000000
+      internalID: -4879933083251311208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c7d247d9e316d10800000000000000
+      internalID: 2117042145820769374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c310b9561de1a70800000000000000
+      internalID: 8799700956250979416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621caceb466805430800000000000000
+      internalID: 3769660655364915494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488bde0ca8db64ff0800000000000000
+      internalID: -52145942028240764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3400f3bceb2d3b6a0800000000000000
+      internalID: -6434567725686783933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d814037085e3219b0800000000000000
+      internalID: -5110954079313444467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e5ec2b80eae7140800000000000000
+      internalID: 4719400811913698926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf2723795440290800000000000000
+      internalID: -7925132928576455658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f2aeeaa0ddeba0800000000000000
+      internalID: -6057956491176774019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f3f7f18a29af30800000000000000
+      internalID: 4587244433152668616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac904e2731a4c250800000000000000
+      internalID: 5964069064916638885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3359b042a00acb20800000000000000
+      internalID: 3155335185797043005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178abb2462ac00fe0800000000000000
+      internalID: -1224756832967612303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8e8722b9cb6e520800000000000000
+      internalID: 2731077598531086525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2949ae73facd8da00800000000000000
+      internalID: 781617180464288914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c5de4b5d5f8a80800000000000000
+      internalID: -8462442528059833650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df23aaac7dda29b0800000000000000
+      internalID: -5104023700162531376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d07c093377ac70800000000000000
+      internalID: 8982274670672794728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a9c896511d400a0800000000000000
+      internalID: -6916173237838898552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab24d37ccd6e0a80800000000000000
+      internalID: -8498734721917506650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7161fe7e0ca9a40800000000000000
+      internalID: 5375821207601289134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ba7ade617d12f10800000000000000
+      internalID: 2243310582883658505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c57f18a251ec4e0800000000000000
+      internalID: -1959605515546305420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8ec58025c5d890800000000000000
+      internalID: -7433818866430604684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303356708208b5ca0800000000000000
+      internalID: -6027082766894157053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6251a05628c38c30800000000000000
+      internalID: 4360548931111834219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9589114237e8c65a0800000000000000
+      internalID: -6526685134789175207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f17467e8f5f310800000000000000
+      internalID: 1438329328721064312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75966a62659e95c00800000000000000
+      internalID: 889998957607283031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa0e42c8342a840800000000000000
+      internalID: 5233819986151123472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84f2d49f77f663c0800000000000000
+      internalID: -4366530661359356790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f6a2d4d50ea010800000000000000
+      internalID: 1201904562179863292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8dcd5321e01340800000000000000
+      internalID: 4832609942182399204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56bbccb4411b0f20800000000000000
+      internalID: 3389822131449345627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d3ccef44abcc0c0800000000000000
+      internalID: -4554060317683073728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50752b472dfe11ad0800000000000000
+      internalID: -2733139811657165051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9be37a2a370da910800000000000000
+      internalID: 1850142968320879515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d022c8e3be957ebc0800000000000000
+      internalID: -3753932897488461299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69519b65fa36b0c80800000000000000
+      internalID: -8355475078930426474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff800626c0b90590800000000000000
+      internalID: -7707434922180309008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35471f24a1ae8f0800000000000000
+      internalID: -510566732932033562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deb6e6e902e8c950800000000000000
+      internalID: 6469669396874182355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0169589abe323bb0800000000000000
+      internalID: -4957831268640661233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1496cf4cfc6a6f5e0800000000000000
+      internalID: -1876128783459915455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eb5eb09fb999f20800000000000000
+      internalID: 3429944085168111262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad29bf32746fbd520800000000000000
+      internalID: 2728044784709767898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3751d6e9d4f9f4650800000000000000
+      internalID: 6219364766141191539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c813d478781b28c0800000000000000
+      internalID: -4023094936490272575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a8f0cf3f6a3170800000000000000
+      internalID: 8158955994546219043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b4d0809d089d30800000000000000
+      internalID: 4438312347061498986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b0c1a71fdba720800000000000000
+      internalID: 2858623681087714893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a96f81c2c6891f0800000000000000
+      internalID: -1037960777455723970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5711d9be29e5a7150800000000000000
+      internalID: 5871109049342038389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cfa1b3360f32f30800000000000000
+      internalID: 4549744357558385695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35789902f8be78470800000000000000
+      internalID: 8396939030215362387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f988237c14955eeb0800000000000000
+      internalID: -4691245297786779489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979dd3ffa6cdddb40800000000000000
+      internalID: 5466767874804537721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d0a6fe865231f00800000000000000
+      internalID: 1086253067749952817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1073dc5028dfe530800000000000000
+      internalID: 3886562636951941149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e2ef14e00322340800000000000000
+      internalID: 4837481787544186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82346dd9c1057cd40800000000000000
+      internalID: 5604536345123242792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0fdde973a8f149a1c5c20d1e8ee19
+      internalID: -416636742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e42b47845db4428afd76c6e020f96
+      internalID: 1446580280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9301c1f77188c8a46a2f8756367eb91d
+      internalID: -472021473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea202c5fff382684c9ea76a9a5c8322b
+      internalID: 549726895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a41f7e2e305964c9f862f658197c0d
+      internalID: 207041922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deaa88340a06794b9f92a801bb5b1e0
+      internalID: -1657061517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cff9487f918a244b643340e0a95492
+      internalID: 1651767191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47cf8e9b8737a041924a09b72d21a32
+      internalID: -2099897598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c249decba50a31d4d96e7ad4552dbc05
+      internalID: 1886504898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a0a16f80e6e143a4508b97f1acc69
+      internalID: -576485065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef19cd8b1058929408c6dbd427b88435
+      internalID: -1809373811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc665d9fbecca4eb16e61b0c7b3ce7
+      internalID: -722869479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd09e13c009ec4e9be803feced1af6
+      internalID: 171710449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7cdda9a68b354ba5dcd21d8c01e01
+      internalID: -104522814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396c0de60648bc4b93b5695cf07220b
+      internalID: -1437738352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10922fc9f5b9640bbcb2e42384df1e
+      internalID: -656464792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f62ebec37342b4886e8d7303871c67
+      internalID: 1361937261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99459c2a9c00fd14392a955a4911219b
+      internalID: -370618281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0f1825ece1784cb5282b24f7f1950
+      internalID: -521723704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52e0d70efe36714f99a9eae4a33ba0b
+      internalID: -746029446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a2d57a6f2b4964c83bb8d45f82ddba
+      internalID: -1617323386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0a73c9ba5e2047bfa8418e99f474f
+      internalID: 1556798172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf24ffb4cb163439f60524c0cdfdb5
+      internalID: -984030560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca17d78e00eab6944a4203b7fb5da3af
+      internalID: -1737998409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481449f5e7eb104abf14940555bec39
+      internalID: -902072583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a0b7f810664f4798e374143885ab4
+      internalID: -1320749455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e305004e6c6fa4944a93638d8d59727b
+      internalID: -656840148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c744c8138e8334897d567b4ccdd42f
+      internalID: 1492075059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e59ba8360f929448f5a49f43819a1a
+      internalID: -1621521129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f11914fc694241aae9e5dced63157
+      internalID: -1037869671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f739542ed0b6de4db2529acd2e4b0eb
+      internalID: 448528200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7db35911c44b41a4c973be9f8cba2
+      internalID: 1931113415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e372e46beef444afe19be32cbe5ab
+      internalID: -577044558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a20e7b935ab1e4cb6d27f377445cd4
+      internalID: 833362613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697480909df33944911550fb91e3ace
+      internalID: 685536315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc6fb2338e9d9a47baa1a13a5b6d6e6
+      internalID: -523922237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461e5e5612e39a4b9faf26619a52216
+      internalID: -1738302468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97ce19989882c4d9576e908652d33b
+      internalID: 1804164067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d3ac7640635fd4f953edbfb225e3f7
+      internalID: 598710243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d1b5b36852b445a6e269d182ed244
+      internalID: 572900218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e05edf955f34e4383ef0dc6c85b7d4
+      internalID: 950767367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46afadd3e61db10488d212b917df3d00
+      internalID: -1108596477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52af3a69d5be86442bea07ec8359faa5
+      internalID: -300652386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286037f4aa4988f42a4b1121883fbdae
+      internalID: 1777612066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cea1c6c2f39034b8b50a6da28f2161
+      internalID: 309291047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8085a732bf8fef549b06b91546194ba8
+      internalID: -1226544494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a22e896f6c9d4a8362577b3420800
+      internalID: -547531570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08261ddb35c99584fbd1d433971ad6ba
+      internalID: 991054225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882de10d81329004fae34d09f4793d42
+      internalID: 2030275804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d157a4f060602314fb7a56f5e221d982
+      internalID: 1463727986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b36fe892a456343a264e8418f237a5
+      internalID: 278101208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0df98d3205fa0146a2fb2d147cfc015
+      internalID: 1004367003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8dbfb7b0ddf5b48ae071fe62648bf6
+      internalID: -1368506992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71d79f399c678a40964f06ee6df229a
+      internalID: 542641406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a70ab8b69215a43a797d783db60973
+      internalID: -1114702417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1427be617e09e48b5974e378ceeaea
+      internalID: -1732994144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6cff7961d1d884182cbfd769312deb
+      internalID: 181982255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb8d979d4dd67b4a9a1651c24935bac
+      internalID: 936052183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffbf63e679f71f45868329181e918d0
+      internalID: 1614131892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404b1cfed750074eb32518e96f86883
+      internalID: -166838549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baee772301491a648bddd5832790cf15
+      internalID: -243805315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_131
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881f5430023a8743803590542068485
+      internalID: -1780491307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dfff0bccab2864d992875568b84a4e
+      internalID: -1993568618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42806a7c0fb37e7438b9cc9478127c40
+      internalID: 819951468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb2fe6db487514791684409d8a3fae
+      internalID: 187491916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_135
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44ea8b5b1a79d46b7828c12c472a1e
+      internalID: -92060593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d229141ddb82429d8293cf879d636
+      internalID: -579801170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2122809a4a9bb4419dc0df84ec2b7a0
+      internalID: -2055829315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b70f0fb24231ca4786187c789c66b6b
+      internalID: -1236349097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73d38864a45e14ebf71d6ce346ea9b
+      internalID: 1193987421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d99f2815ecf2444af7739cc8d443e9
+      internalID: 1466601282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74071362563168e47ba4280068f0f8f6
+      internalID: 1188740507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53d1b5f4f97044c887de0f81aa75c4
+      internalID: -2011596188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e751f71efd614db29a91bf794ba50
+      internalID: -770280587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab66288de3a4c4797be51dcaeb1d91
+      internalID: 616290899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518569812925414980aa2490c7555fc
+      internalID: -808968689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f4b5013ea9f84e83213dc97a3eb1c
+      internalID: 706073045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c24ca28b7d29e49936f7cbff6b96c4
+      internalID: 1611155450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644235ef43817fc4d97e1bc3ea000b43
+      internalID: 1506174221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc795a279d822b45b77462cbd0882d2
+      internalID: 749790050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567d71140eac514cab03c3fe034c913
+      internalID: 2041086318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48aa5605331e645b2e45b215eed10d
+      internalID: 1024610631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff41b68df296f4483b8b3d218eea78
+      internalID: 1708988145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2513d13278160409ab0fd949ec160e
+      internalID: 439959597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17951a9d401b944a2748ea04a94af5
+      internalID: -1071931062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de4bbc129b86eb46b460e7aa2d04e0b
+      internalID: -1350927917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_156
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928b44114dfb5f41a9c9759d5f1c790
+      internalID: -1635672855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3357c15cc2385747b3f7fff5c4095e1
+      internalID: -1588544667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_158
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c534f25c1d2344bb621a267e28822
+      internalID: 527117973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eab0b69bcc73f4984bec98247b3420
+      internalID: -107932930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_160
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da2337e3a5dbc44386ce6747b9a1679
+      internalID: 2070542117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad47fd93f13dd40b8322f6d456fc72
+      internalID: -828408906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ab85f23862ea448d4ced828838426
+      internalID: -306194113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f8530fd4df200409fd56ce3f8c0399
+      internalID: -464220710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_164
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cac2433f39d9946a86a4a5b9e6d17b
+      internalID: 540793224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e7a4517cf9e7044b15c00faaa8c9a4
+      internalID: -1650295204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a24c61e701b247b7d64f38b3f8e4c
+      internalID: 558008752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31c4eb0956b624ab1f65ed2ccda74c
+      internalID: 528055583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398751dbc63ccf438b60d1abb61a43a
+      internalID: -1657051681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_169
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8bec12ee37d14e9f0b5098a0c027a
+      internalID: -487496672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_170
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c331fb6d98a74b952c4dab63517e2
+      internalID: 925242412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feec4b8b93c8f84b964be3fc5f96277
+      internalID: -196751826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_172
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4414d8e7d8e4cb459e27631bb70fd7f
+      internalID: 401854834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7398231aefd4e4eb17928f2602e286
+      internalID: -811884196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b6b26c9c193545b4e788c3f72a811
+      internalID: 710714943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402aa3ad9a09c6b499062b0455d04502
+      internalID: -1282445515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_176
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a62f33d1678e548a460378faa9243c
+      internalID: -705418189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a122db8b73a0498247d2702e8a236
+      internalID: -799464275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_178
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b385a8804e04784593970d8a8bb39ad
+      internalID: 1095322977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045639a72f874b148a7c90c7e5d269cf
+      internalID: -203564188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3a92105f96a748a2881634977d9d4
+      internalID: 881179263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34740e0aae9ee94dab2677dc6f99374
+      internalID: -603143875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_182
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2dc8319bd8e31419e2ef86444145c5
+      internalID: -417445319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c26170713e02a49ac04727199a981c
+      internalID: -229761867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_184
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe468fe196721458edce4ebc2eb077
+      internalID: -641064348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2ac06d15befe4489d40ffe5a72399
+      internalID: -971236481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_186
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b903f4d12dc4a54eae3a34be9135892
+      internalID: 482488465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9163d05edccc564c9db8b48572ae603
+      internalID: 1553185448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_188
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f508befabc10d4ca276b1721ec8872
+      internalID: -425326954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ee799da04cf6438cdc3bc680a0ffd
+      internalID: -2096924253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_190
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597855e648b63ab4c8c830cf9229e393
+      internalID: -278744752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24_Ice_Cream_Shop_Black_Shadow_16x16_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d17b001990bf45b0050e88ae0bebb
+      internalID: -641450683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d36aaf4c8b198634fa8ca78ebc5d2483
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      24_Ice_Cream_Shop_Black_Shadow_16x16_0: -7635666581687667000
+      24_Ice_Cream_Shop_Black_Shadow_16x16_1: -7462276976584176363
+      24_Ice_Cream_Shop_Black_Shadow_16x16_10: 8799700956250979416
+      24_Ice_Cream_Shop_Black_Shadow_16x16_100: 448528200
+      24_Ice_Cream_Shop_Black_Shadow_16x16_101: 1931113415
+      24_Ice_Cream_Shop_Black_Shadow_16x16_102: -577044558
+      24_Ice_Cream_Shop_Black_Shadow_16x16_103: 833362613
+      24_Ice_Cream_Shop_Black_Shadow_16x16_104: 685536315
+      24_Ice_Cream_Shop_Black_Shadow_16x16_105: -523922237
+      24_Ice_Cream_Shop_Black_Shadow_16x16_106: -1738302468
+      24_Ice_Cream_Shop_Black_Shadow_16x16_107: 1804164067
+      24_Ice_Cream_Shop_Black_Shadow_16x16_108: 598710243
+      24_Ice_Cream_Shop_Black_Shadow_16x16_109: 572900218
+      24_Ice_Cream_Shop_Black_Shadow_16x16_11: 3769660655364915494
+      24_Ice_Cream_Shop_Black_Shadow_16x16_110: 950767367
+      24_Ice_Cream_Shop_Black_Shadow_16x16_111: -1108596477
+      24_Ice_Cream_Shop_Black_Shadow_16x16_112: -300652386
+      24_Ice_Cream_Shop_Black_Shadow_16x16_113: 1777612066
+      24_Ice_Cream_Shop_Black_Shadow_16x16_114: 309291047
+      24_Ice_Cream_Shop_Black_Shadow_16x16_115: -1226544494
+      24_Ice_Cream_Shop_Black_Shadow_16x16_116: -547531570
+      24_Ice_Cream_Shop_Black_Shadow_16x16_117: 991054225
+      24_Ice_Cream_Shop_Black_Shadow_16x16_118: 2030275804
+      24_Ice_Cream_Shop_Black_Shadow_16x16_119: 1463727986
+      24_Ice_Cream_Shop_Black_Shadow_16x16_12: -52145942028240764
+      24_Ice_Cream_Shop_Black_Shadow_16x16_120: 278101208
+      24_Ice_Cream_Shop_Black_Shadow_16x16_121: 1004367003
+      24_Ice_Cream_Shop_Black_Shadow_16x16_122: -1368506992
+      24_Ice_Cream_Shop_Black_Shadow_16x16_123: 542641406
+      24_Ice_Cream_Shop_Black_Shadow_16x16_124: -1114702417
+      24_Ice_Cream_Shop_Black_Shadow_16x16_125: -1732994144
+      24_Ice_Cream_Shop_Black_Shadow_16x16_126: 181982255
+      24_Ice_Cream_Shop_Black_Shadow_16x16_127: 936052183
+      24_Ice_Cream_Shop_Black_Shadow_16x16_128: 1614131892
+      24_Ice_Cream_Shop_Black_Shadow_16x16_129: -166838549
+      24_Ice_Cream_Shop_Black_Shadow_16x16_13: -6434567725686783933
+      24_Ice_Cream_Shop_Black_Shadow_16x16_130: -243805315
+      24_Ice_Cream_Shop_Black_Shadow_16x16_131: -1780491307
+      24_Ice_Cream_Shop_Black_Shadow_16x16_132: -1993568618
+      24_Ice_Cream_Shop_Black_Shadow_16x16_133: 819951468
+      24_Ice_Cream_Shop_Black_Shadow_16x16_134: 187491916
+      24_Ice_Cream_Shop_Black_Shadow_16x16_135: -92060593
+      24_Ice_Cream_Shop_Black_Shadow_16x16_136: -579801170
+      24_Ice_Cream_Shop_Black_Shadow_16x16_137: -2055829315
+      24_Ice_Cream_Shop_Black_Shadow_16x16_138: -1236349097
+      24_Ice_Cream_Shop_Black_Shadow_16x16_139: 1193987421
+      24_Ice_Cream_Shop_Black_Shadow_16x16_14: -5110954079313444467
+      24_Ice_Cream_Shop_Black_Shadow_16x16_140: 1466601282
+      24_Ice_Cream_Shop_Black_Shadow_16x16_141: 1188740507
+      24_Ice_Cream_Shop_Black_Shadow_16x16_142: -2011596188
+      24_Ice_Cream_Shop_Black_Shadow_16x16_143: -770280587
+      24_Ice_Cream_Shop_Black_Shadow_16x16_144: 616290899
+      24_Ice_Cream_Shop_Black_Shadow_16x16_145: -808968689
+      24_Ice_Cream_Shop_Black_Shadow_16x16_146: 706073045
+      24_Ice_Cream_Shop_Black_Shadow_16x16_147: 1611155450
+      24_Ice_Cream_Shop_Black_Shadow_16x16_148: 1506174221
+      24_Ice_Cream_Shop_Black_Shadow_16x16_149: 749790050
+      24_Ice_Cream_Shop_Black_Shadow_16x16_15: 4719400811913698926
+      24_Ice_Cream_Shop_Black_Shadow_16x16_150: 2041086318
+      24_Ice_Cream_Shop_Black_Shadow_16x16_151: 1024610631
+      24_Ice_Cream_Shop_Black_Shadow_16x16_152: 1708988145
+      24_Ice_Cream_Shop_Black_Shadow_16x16_153: 439959597
+      24_Ice_Cream_Shop_Black_Shadow_16x16_154: -1071931062
+      24_Ice_Cream_Shop_Black_Shadow_16x16_155: -1350927917
+      24_Ice_Cream_Shop_Black_Shadow_16x16_156: -1635672855
+      24_Ice_Cream_Shop_Black_Shadow_16x16_157: -1588544667
+      24_Ice_Cream_Shop_Black_Shadow_16x16_158: 527117973
+      24_Ice_Cream_Shop_Black_Shadow_16x16_159: -107932930
+      24_Ice_Cream_Shop_Black_Shadow_16x16_16: -7925132928576455658
+      24_Ice_Cream_Shop_Black_Shadow_16x16_160: 2070542117
+      24_Ice_Cream_Shop_Black_Shadow_16x16_161: -828408906
+      24_Ice_Cream_Shop_Black_Shadow_16x16_162: -306194113
+      24_Ice_Cream_Shop_Black_Shadow_16x16_163: -464220710
+      24_Ice_Cream_Shop_Black_Shadow_16x16_164: 540793224
+      24_Ice_Cream_Shop_Black_Shadow_16x16_165: -1650295204
+      24_Ice_Cream_Shop_Black_Shadow_16x16_166: 558008752
+      24_Ice_Cream_Shop_Black_Shadow_16x16_167: 528055583
+      24_Ice_Cream_Shop_Black_Shadow_16x16_168: -1657051681
+      24_Ice_Cream_Shop_Black_Shadow_16x16_169: -487496672
+      24_Ice_Cream_Shop_Black_Shadow_16x16_17: -6057956491176774019
+      24_Ice_Cream_Shop_Black_Shadow_16x16_170: 925242412
+      24_Ice_Cream_Shop_Black_Shadow_16x16_171: -196751826
+      24_Ice_Cream_Shop_Black_Shadow_16x16_172: 401854834
+      24_Ice_Cream_Shop_Black_Shadow_16x16_173: -811884196
+      24_Ice_Cream_Shop_Black_Shadow_16x16_174: 710714943
+      24_Ice_Cream_Shop_Black_Shadow_16x16_175: -1282445515
+      24_Ice_Cream_Shop_Black_Shadow_16x16_176: -705418189
+      24_Ice_Cream_Shop_Black_Shadow_16x16_177: -799464275
+      24_Ice_Cream_Shop_Black_Shadow_16x16_178: 1095322977
+      24_Ice_Cream_Shop_Black_Shadow_16x16_179: -203564188
+      24_Ice_Cream_Shop_Black_Shadow_16x16_18: 4587244433152668616
+      24_Ice_Cream_Shop_Black_Shadow_16x16_180: 881179263
+      24_Ice_Cream_Shop_Black_Shadow_16x16_181: -603143875
+      24_Ice_Cream_Shop_Black_Shadow_16x16_182: -417445319
+      24_Ice_Cream_Shop_Black_Shadow_16x16_183: -229761867
+      24_Ice_Cream_Shop_Black_Shadow_16x16_184: -641064348
+      24_Ice_Cream_Shop_Black_Shadow_16x16_185: -971236481
+      24_Ice_Cream_Shop_Black_Shadow_16x16_186: 482488465
+      24_Ice_Cream_Shop_Black_Shadow_16x16_187: 1553185448
+      24_Ice_Cream_Shop_Black_Shadow_16x16_188: -425326954
+      24_Ice_Cream_Shop_Black_Shadow_16x16_189: -2096924253
+      24_Ice_Cream_Shop_Black_Shadow_16x16_19: 5964069064916638885
+      24_Ice_Cream_Shop_Black_Shadow_16x16_190: -278744752
+      24_Ice_Cream_Shop_Black_Shadow_16x16_191: -641450683
+      24_Ice_Cream_Shop_Black_Shadow_16x16_2: 1858408688227172923
+      24_Ice_Cream_Shop_Black_Shadow_16x16_20: 3155335185797043005
+      24_Ice_Cream_Shop_Black_Shadow_16x16_21: -1224756832967612303
+      24_Ice_Cream_Shop_Black_Shadow_16x16_22: 2731077598531086525
+      24_Ice_Cream_Shop_Black_Shadow_16x16_23: 781617180464288914
+      24_Ice_Cream_Shop_Black_Shadow_16x16_24: -8462442528059833650
+      24_Ice_Cream_Shop_Black_Shadow_16x16_25: -5104023700162531376
+      24_Ice_Cream_Shop_Black_Shadow_16x16_26: 8982274670672794728
+      24_Ice_Cream_Shop_Black_Shadow_16x16_27: -6916173237838898552
+      24_Ice_Cream_Shop_Black_Shadow_16x16_28: -8498734721917506650
+      24_Ice_Cream_Shop_Black_Shadow_16x16_29: 5375821207601289134
+      24_Ice_Cream_Shop_Black_Shadow_16x16_3: -3860858845457611831
+      24_Ice_Cream_Shop_Black_Shadow_16x16_30: 2243310582883658505
+      24_Ice_Cream_Shop_Black_Shadow_16x16_31: -1959605515546305420
+      24_Ice_Cream_Shop_Black_Shadow_16x16_32: -7433818866430604684
+      24_Ice_Cream_Shop_Black_Shadow_16x16_33: -6027082766894157053
+      24_Ice_Cream_Shop_Black_Shadow_16x16_34: 4360548931111834219
+      24_Ice_Cream_Shop_Black_Shadow_16x16_35: -6526685134789175207
+      24_Ice_Cream_Shop_Black_Shadow_16x16_36: 1438329328721064312
+      24_Ice_Cream_Shop_Black_Shadow_16x16_37: 889998957607283031
+      24_Ice_Cream_Shop_Black_Shadow_16x16_38: 5233819986151123472
+      24_Ice_Cream_Shop_Black_Shadow_16x16_39: -4366530661359356790
+      24_Ice_Cream_Shop_Black_Shadow_16x16_4: 4326528014125051848
+      24_Ice_Cream_Shop_Black_Shadow_16x16_40: 1201904562179863292
+      24_Ice_Cream_Shop_Black_Shadow_16x16_41: 4832609942182399204
+      24_Ice_Cream_Shop_Black_Shadow_16x16_42: 3389822131449345627
+      24_Ice_Cream_Shop_Black_Shadow_16x16_43: -4554060317683073728
+      24_Ice_Cream_Shop_Black_Shadow_16x16_44: -2733139811657165051
+      24_Ice_Cream_Shop_Black_Shadow_16x16_45: 1850142968320879515
+      24_Ice_Cream_Shop_Black_Shadow_16x16_46: -3753932897488461299
+      24_Ice_Cream_Shop_Black_Shadow_16x16_47: -8355475078930426474
+      24_Ice_Cream_Shop_Black_Shadow_16x16_48: -7707434922180309008
+      24_Ice_Cream_Shop_Black_Shadow_16x16_49: -510566732932033562
+      24_Ice_Cream_Shop_Black_Shadow_16x16_5: 5512282774496984488
+      24_Ice_Cream_Shop_Black_Shadow_16x16_50: 6469669396874182355
+      24_Ice_Cream_Shop_Black_Shadow_16x16_51: -4957831268640661233
+      24_Ice_Cream_Shop_Black_Shadow_16x16_52: -1876128783459915455
+      24_Ice_Cream_Shop_Black_Shadow_16x16_53: 3429944085168111262
+      24_Ice_Cream_Shop_Black_Shadow_16x16_54: 2728044784709767898
+      24_Ice_Cream_Shop_Black_Shadow_16x16_55: 6219364766141191539
+      24_Ice_Cream_Shop_Black_Shadow_16x16_56: -4023094936490272575
+      24_Ice_Cream_Shop_Black_Shadow_16x16_57: 8158955994546219043
+      24_Ice_Cream_Shop_Black_Shadow_16x16_58: 4438312347061498986
+      24_Ice_Cream_Shop_Black_Shadow_16x16_59: 2858623681087714893
+      24_Ice_Cream_Shop_Black_Shadow_16x16_6: -9018771337317864637
+      24_Ice_Cream_Shop_Black_Shadow_16x16_60: -1037960777455723970
+      24_Ice_Cream_Shop_Black_Shadow_16x16_61: 5871109049342038389
+      24_Ice_Cream_Shop_Black_Shadow_16x16_62: 4549744357558385695
+      24_Ice_Cream_Shop_Black_Shadow_16x16_63: 8396939030215362387
+      24_Ice_Cream_Shop_Black_Shadow_16x16_64: -4691245297786779489
+      24_Ice_Cream_Shop_Black_Shadow_16x16_65: 5466767874804537721
+      24_Ice_Cream_Shop_Black_Shadow_16x16_66: 1086253067749952817
+      24_Ice_Cream_Shop_Black_Shadow_16x16_67: 3886562636951941149
+      24_Ice_Cream_Shop_Black_Shadow_16x16_68: 4837481787544186444
+      24_Ice_Cream_Shop_Black_Shadow_16x16_69: 5604536345123242792
+      24_Ice_Cream_Shop_Black_Shadow_16x16_7: 6068577251453297017
+      24_Ice_Cream_Shop_Black_Shadow_16x16_70: -416636742
+      24_Ice_Cream_Shop_Black_Shadow_16x16_71: 1446580280
+      24_Ice_Cream_Shop_Black_Shadow_16x16_72: -472021473
+      24_Ice_Cream_Shop_Black_Shadow_16x16_73: 549726895
+      24_Ice_Cream_Shop_Black_Shadow_16x16_74: 207041922
+      24_Ice_Cream_Shop_Black_Shadow_16x16_75: -1657061517
+      24_Ice_Cream_Shop_Black_Shadow_16x16_76: 1651767191
+      24_Ice_Cream_Shop_Black_Shadow_16x16_77: -2099897598
+      24_Ice_Cream_Shop_Black_Shadow_16x16_78: 1886504898
+      24_Ice_Cream_Shop_Black_Shadow_16x16_79: -576485065
+      24_Ice_Cream_Shop_Black_Shadow_16x16_8: -4879933083251311208
+      24_Ice_Cream_Shop_Black_Shadow_16x16_80: -1809373811
+      24_Ice_Cream_Shop_Black_Shadow_16x16_81: -722869479
+      24_Ice_Cream_Shop_Black_Shadow_16x16_82: 171710449
+      24_Ice_Cream_Shop_Black_Shadow_16x16_83: -104522814
+      24_Ice_Cream_Shop_Black_Shadow_16x16_84: -1437738352
+      24_Ice_Cream_Shop_Black_Shadow_16x16_85: -656464792
+      24_Ice_Cream_Shop_Black_Shadow_16x16_86: 1361937261
+      24_Ice_Cream_Shop_Black_Shadow_16x16_87: -370618281
+      24_Ice_Cream_Shop_Black_Shadow_16x16_88: -521723704
+      24_Ice_Cream_Shop_Black_Shadow_16x16_89: -746029446
+      24_Ice_Cream_Shop_Black_Shadow_16x16_9: 2117042145820769374
+      24_Ice_Cream_Shop_Black_Shadow_16x16_90: -1617323386
+      24_Ice_Cream_Shop_Black_Shadow_16x16_91: 1556798172
+      24_Ice_Cream_Shop_Black_Shadow_16x16_92: -984030560
+      24_Ice_Cream_Shop_Black_Shadow_16x16_93: -1737998409
+      24_Ice_Cream_Shop_Black_Shadow_16x16_94: -902072583
+      24_Ice_Cream_Shop_Black_Shadow_16x16_95: -1320749455
+      24_Ice_Cream_Shop_Black_Shadow_16x16_96: -656840148
+      24_Ice_Cream_Shop_Black_Shadow_16x16_97: 1492075059
+      24_Ice_Cream_Shop_Black_Shadow_16x16_98: -1621521129
+      24_Ice_Cream_Shop_Black_Shadow_16x16_99: -1037869671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
