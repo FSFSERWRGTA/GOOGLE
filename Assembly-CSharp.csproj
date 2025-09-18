@@ -51,8 +51,7 @@
     <Compile Include="Assets\Assets\Resources\Script\ObjData.cs" />
     <Compile Include="Assets\Assets\Resources\Script\MoveCharacter.cs" />
     <Compile Include="Assets\Assets\Resources\Script\TalkManager.cs" />
-    <Compile Include="Assets\Assets\Resources\Script\DatabaseManager.cs" />
-    <Compile Include="Assets\Assets\Resources\Script\OrderManager.cs" />
+    <Compile Include="Assets\Assets\Resources\Script\ItemPickup.cs" />
     <Compile Include="Assets\Assets\Resources\Script\Inventory.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.2.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

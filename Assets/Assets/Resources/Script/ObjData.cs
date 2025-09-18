@@ -1,30 +1,22 @@
-using UnityEditor;
 using UnityEngine;
 
 public class ObjData : MonoBehaviour
 {
-    public int id;        // TalkManager에서 쓰는 id
-    public bool isNpc;
-    public string itemName;
-    public string itemDescription; //Item 성명
-    public Sprite itemIcon;
-    public string npcName; // ✅ 추가 (Inspector에서 NPC 이름 직접 입력)
+    [Header("아이템 기본 정보")]
+    public int id;                     // 아이템 ID (필요 없으면 제거 가능)
+    public bool isNpc;                 // NPC 여부
+    public bool canGet = true;         // ✅ 습득 가능 여부 (Inspector 체크박스)
+    public string itemName;            // 아이템 이름
+    [TextArea] public string itemDescription; // 아이템 설명
+    public Sprite itemIcon;            // 아이템 아이콘
+    public string npcName;             // NPC 이름 (NPC 오브젝트일 때)
+
+    [Header("아이템 타입")]
     public ItemType itemType;
 
-    public enum ItemType{
-        Use,
-        Equip,
-        Quest,
-        ETC
-    }
-    
-    public ObjData(int _itemID, string _itemName, string _itemDescription, ItemType _itemType)
+    public enum ItemType
     {
-        id = _itemID;
-        itemName = _itemName;
-        itemDescription = _itemDescription;
-        itemIcon = Resources.Load("Sprites/" + _itemID.ToString(), typeof(Sprite)) as Sprite;
-        itemType = _itemType;
-        
+        Use,
+        Quest,
     }
 }

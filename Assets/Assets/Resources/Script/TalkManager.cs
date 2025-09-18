@@ -21,6 +21,7 @@ public class TalkManager : MonoBehaviour
     {
         talkData.Add(1000, new string[]{"행인1:그거 들었어? 저기에 새로운 귀신이 돌아다닌다는 소문이 돌던데.:0", "행인2:뭐 정말?:1"});
         talkData.Add(100, new string[]{"평범한 문. 현재는 닫혀서 열리지 않는다."});
+        talkData.Add(101, new string[]{"이다영 교수님께서 주신 포도. 후숙되어 달달하다."});
         
         portraitData.Add(1000 +0, portraitArr[0]);
         portraitData.Add(1000 +1, portraitArr[1]);
