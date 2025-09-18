@@ -4,7 +4,6 @@ using UnityEngine.UI;
 public class InventorySlot : MonoBehaviour
 {
     public Image icon;
-    public Text itemName_Text;
     public GameObject selected_Item;
 
     private ObjData currentItem;
@@ -36,7 +35,6 @@ public class InventorySlot : MonoBehaviour
     public void AddItem(ObjData _item)
     {
         currentItem = _item;
-        itemName_Text.text = _item.itemName;
         icon.sprite = _item.itemIcon;
         icon.enabled = true;
     }
@@ -44,7 +42,6 @@ public class InventorySlot : MonoBehaviour
     public void Clear()
     {
         currentItem = null;
-        itemName_Text.text = "";
         icon.sprite = null;
         icon.enabled = false;
     }

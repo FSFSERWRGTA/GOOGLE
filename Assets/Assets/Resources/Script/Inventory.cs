@@ -6,6 +6,8 @@ public class Inventory : MonoBehaviour
 {
     [Header("UI 참조")]
     public GameObject go;                      // 인벤토리 전체 패널
+    public Image descriptionImg;               // 설명 아이콘
+    public Text descriptionName;               // 설명 이름 
     public Text descriptionText;               // 설명 텍스트
     public GameObject[] tabButtons;            // 탭 버튼들 (Inspector에서 할당)
     public InventorySlot[] slots;              // 슬롯들 (Grid 밑에 배치 후 드래그)
@@ -13,7 +15,7 @@ public class Inventory : MonoBehaviour
     [Header("탭 설명")]
     public string[] tabDescription;            // 탭별 설명 텍스트
 
-    // ✅ 선언과 동시에 초기화 (NullReference 방지)
+    // ✅ 리스트 초기화
     private List<ObjData> inventoryItemList = new List<ObjData>();   // 전체 아이템
     private List<ObjData> inventoryTabList = new List<ObjData>();    // 현재 탭에 표시되는 아이템
 
@@ -37,6 +39,7 @@ public class Inventory : MonoBehaviour
 
         // 처음엔 닫혀있음
         go.SetActive(false);
+        ClearDescription(); // 시작 시 설명 초기화
     }
 
     // ✅ 아이템 추가
@@ -69,6 +72,8 @@ public class Inventory : MonoBehaviour
     {
         activated = false;
         go.SetActive(false);
+
+        ClearDescription(); // 닫을 때 설명 초기화
     }
 
     // ✅ 탭 클릭 시 (UI 버튼 OnClick에서 index 넘겨줌)
@@ -78,16 +83,25 @@ public class Inventory : MonoBehaviour
         ShowTab();
     }
 
-    // ✅ 슬롯 클릭 시
+    // ✅ 슬롯 클릭 시 (아이템 상세 표시)
     public void OnClickSlot(ObjData item)
     {
-        descriptionText.text = $"{item.itemName}\n{item.itemDescription}";
+        if (descriptionImg != null)
+            descriptionImg.sprite = item.itemIcon;
+
+        if (descriptionName != null)
+            descriptionName.text = item.itemName;
+
+        if (descriptionText != null)
+            descriptionText.text = item.itemDescription;
+
+        Debug.Log($"[인벤토리] {item.itemName} 클릭됨 -> 상세정보 표시 완료");
     }
 
-    // 탭 표시
+    // ✅ 탭 표시
     private void ShowTab()
     {
-        // 탭 버튼 알파값 조정 (선택된 탭만 반투명)
+        // 탭 버튼 알파값 조정
         for (int i = 0; i < tabButtons.Length; i++)
         {
             var img = tabButtons[i].GetComponent<Image>();
@@ -99,16 +113,19 @@ public class Inventory : MonoBehaviour
             }
         }
 
-        // 탭 설명 표시 (인덱스 범위 체크 추가)
+        // 탭 전환 시 설명 지우기
+        ClearDescription();
+
+        // 탭 설명 로그 출력 (필요시 UI로도 표시 가능)
         if (tabDescription != null && selectedTab < tabDescription.Length)
-            descriptionText.text = tabDescription[selectedTab];
-        else
-            descriptionText.text = "";
+        {
+            Debug.Log($"[인벤토리] {tabDescription[selectedTab]} 탭 선택됨");
+        }
 
         ShowItem();
     }
 
-    // 슬롯에 아이템 보여주기
+    // ✅ 슬롯에 아이템 보여주기
     private void ShowItem()
     {
         // 리스트 초기화
@@ -129,5 +146,18 @@ public class Inventory : MonoBehaviour
         {
             slots[i].AddItem(inventoryTabList[i]);
         }
+    }
+
+    // ✅ 설명 초기화 함수
+    private void ClearDescription()
+    {
+        if (descriptionImg != null)
+            descriptionImg.sprite = null;
+
+        if (descriptionName != null)
+            descriptionName.text = "";
+
+        if (descriptionText != null)
+            descriptionText.text = "";
     }
 }
