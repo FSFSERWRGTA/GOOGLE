@@ -15,7 +15,10 @@ public class GameManager : MonoBehaviour
 
     [Header("Manager")]
     public TalkManager talkManager;
-    public Inventory inventory;   // ✅ Inspector에서 Inventory 오브젝트 직접 연결
+    public Inventory inventory;   // Inspector에서 Inventory 오브젝트 직접 연결
+    
+    public ChatManager chatManager;
+    
 
     public GameObject scanObject;
     public bool isAction;
@@ -56,6 +59,7 @@ public class GameManager : MonoBehaviour
             talkIndex = 0;
             talkPanel.SetActive(false);
             npcPanel.SetActive(false);
+            //chatManager.AddNarration(talkData);
             return;
         }
 
@@ -65,22 +69,39 @@ public class GameManager : MonoBehaviour
             npcPanel.SetActive(true);
 
             string[] splitData = talkData.Split(':');
-            npcText.text = splitData[1];
-            name.text = splitData[0];  
 
+            string npcName = splitData[0];   // 이름
+            string npcLine = splitData[1];   // 대사
+
+            name.text = npcName;
+            npcText.text = npcLine;
+
+            Sprite npcPortrait = null;
             if (splitData.Length > 2)
             {
-                int portraitIndex = int.Parse(splitData[2]);
-                portraitImg.sprite = talkManager.GetPortrait(id, portraitIndex);
-                portraitImg.color = new Color(1, 1, 1, 1);
+                int portraitIndex;
+                if (int.TryParse(splitData[2], out portraitIndex))
+                {
+                    npcPortrait = talkManager.GetPortrait(id, portraitIndex);
+                    if (portraitImg != null)
+                    {
+                        portraitImg.sprite = npcPortrait;
+                        portraitImg.color = new Color(1, 1, 1, 1);
+                    }
+                }
             }
+
+            // ✅ 채팅창에도 추가
+            chatManager.AddChat(npcName, npcPortrait, npcLine);
         }
+
         else
         {
             talkPanel.SetActive(true);
             npcPanel.SetActive(false);
 
             talkText.text = talkData;
+            chatManager.AddNarration(talkData);
         }
     
         isAction = true;
