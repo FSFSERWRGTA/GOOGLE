@@ -74,7 +74,7 @@ public class StartGameManager : MonoBehaviour
     {
         if (stage == 1)
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("Session_1-1");
         }
     }
 
