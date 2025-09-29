@@ -45,6 +45,11 @@ public class GameManager : MonoBehaviour
                 {
                     inventory.AddItem(objData);
                     Debug.Log($"[아이템 습득 완료] {objData.itemName} 인벤토리에 추가됨!");
+                    //출력시킬 이미지가 존재할 경우 출력 처리
+                    if (scanObject.TryGetComponent<EvidencePicker>(out EvidencePicker picker) == true)
+                    {
+                        picker.TryImgShow();
+                    }
                 }
                 else
                 {
