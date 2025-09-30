@@ -28542,7 +28542,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DoorOpener
   inventory: {fileID: 1874063741}
   isLock: 1
-  itemCode: 0
+  itemCode: 102
   rayDistance: 3
   rayRadius: 0.1
   rayOffset: {fileID: 103825377}
@@ -30497,7 +30497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DoorOpener
   inventory: {fileID: 1874063741}
   isLock: 1
-  itemCode: 0
+  itemCode: 102
   rayDistance: 3
   rayRadius: 0.1
   rayOffset: {fileID: 2069326419}
@@ -33470,6 +33470,7 @@ MonoBehaviour:
   - {fileID: 644999087}
   - {fileID: 2097558569}
   tabDescription: []
+  inventoryItemCode: 
 --- !u!1 &1917207691 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2333235847846596639, guid: bdcd192febf897044a0fcacdc49d8e23, type: 3}

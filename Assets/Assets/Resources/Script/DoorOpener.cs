@@ -38,8 +38,7 @@ public class DoorOpener : MonoBehaviour
     void Update()
     {
         //완전 개방 문이거나        특정 아이템을 소지한 상태인 경우 열림처리 활성화
-        //if((isLock==false) || (isLock==true && ))
-        if (isLock == false)
+        if((isLock==false) || (isLock==true && inventory.SearchItem(itemCode)==true))
             PerformRaycastDetection();
     }
 

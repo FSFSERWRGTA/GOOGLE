@@ -17,6 +17,7 @@ public class Inventory : MonoBehaviour
 
     // ✅ 리스트 초기화
     private List<ObjData> inventoryItemList = new List<ObjData>();   // 전체 아이템
+    [SerializeField] private List<int> inventoryItemCode = new List<int>();       // 전체 아이템을 검색에 용이하게 코드의 형태로 저장장
     private List<ObjData> inventoryTabList = new List<ObjData>();    // 현재 탭에 표시되는 아이템
 
     private int selectedTab;
@@ -52,6 +53,7 @@ public class Inventory : MonoBehaviour
         }
 
         inventoryItemList.Add(item);
+        inventoryItemCode.Add(item.id);
         Debug.Log($"[인벤토리] {item.itemName} 추가됨. 현재 개수: {inventoryItemList.Count}");
 
         ShowItem();
@@ -159,5 +161,12 @@ public class Inventory : MonoBehaviour
 
         if (descriptionText != null)
             descriptionText.text = "";
+    }
+
+    // 아이템 검색
+    public bool SearchItem(int value)
+    {
+        //인벤토리 내에 해당 코드의 아이템을 가지고 있는지 확인
+        return inventoryItemCode.Contains(value);
     }
 }
