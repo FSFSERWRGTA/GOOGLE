@@ -33504,7 +33504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Door_SceneMover
   inventory: {fileID: 1874063741}
   itemCode: 105
-  sceneTarget: Session_1-2
+  sceneTarget: Session_1-2-1
 --- !u!61 &1903657851
 BoxCollider2D:
   m_ObjectHideFlags: 0
