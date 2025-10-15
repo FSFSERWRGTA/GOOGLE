@@ -46,11 +46,14 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.2.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Assets\Resources\Script\AnimationController.cs" />
     <Compile Include="Assets\Assets\Resources\Script\GameManager.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\AppSettingsExtensions.cs" />
     <Compile Include="Assets\Assets\Resources\Script\ChatManager.cs" />
     <Compile Include="Assets\Assets\Resources\Script\InventorySlot.cs" />
     <Compile Include="Assets\Assets\Resources\Script\StartGameManager.cs" />
+    <Compile Include="Assets\Assets\Resources\Script\EvidencePicker.cs" />
+    <Compile Include="Assets\Assets\Resources\Script\Door_SceneMover.cs" />
     <Compile Include="Assets\Assets\Resources\Script\ObjData.cs" />
     <Compile Include="Assets\Assets\Resources\Script\MoveCharacter.cs" />
     <Compile Include="Assets\Assets\Resources\Script\TalkManager.cs" />
@@ -60,7 +63,9 @@
     <Compile Include="Assets\Assets\Resources\Script\ItemPickup.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
     <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
+    <Compile Include="Assets\Assets\Resources\Script\DoorOpener.cs" />
     <Compile Include="Assets\Assets\Resources\Script\PlayerData.cs" />
+    <Compile Include="Assets\Assets\Resources\Script\EvidenceShower.cs" />
     <Compile Include="Assets\Assets\Resources\Script\HumanInventory.cs" />
     <Compile Include="Assets\Assets\Resources\Script\HumanData.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\OnStartDelete.cs" />
