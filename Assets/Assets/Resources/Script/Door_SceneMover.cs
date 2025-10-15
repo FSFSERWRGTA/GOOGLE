@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+ 
 public class Door_SceneMover : MonoBehaviour
 {
     //씬 이동을 처리하는 코드드
