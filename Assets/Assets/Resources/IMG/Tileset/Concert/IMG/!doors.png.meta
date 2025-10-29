@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5486b15ff5c2d22418b69ced281047ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1915341585594612499
+    second: '!doors_0'
+  - first:
+      213: 2949682038553662993
+    second: '!doors_1'
+  - first:
+      213: -6302686920677700133
+    second: '!doors_2'
+  - first:
+      213: 3068743136840986297
+    second: '!doors_3'
+  - first:
+      213: -2052023697374503844
+    second: '!doors_4'
+  - first:
+      213: -4620084531546931725
+    second: '!doors_5'
+  - first:
+      213: -5566364484102842851
+    second: '!doors_6'
+  - first:
+      213: 3000236169322361236
+    second: '!doors_7'
+  - first:
+      213: -5246208347565001153
+    second: '!doors_8'
+  - first:
+      213: -5004279505409941647
+    second: '!doors_9'
+  - first:
+      213: 6962493683247938542
+    second: '!doors_10'
+  - first:
+      213: 6315055234550196556
+    second: '!doors_11'
+  - first:
+      213: -7941117812189396058
+    second: '!doors_12'
+  - first:
+      213: -755640910491371164
+    second: '!doors_13'
+  - first:
+      213: 8906956651645774539
+    second: '!doors_14'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!doors_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 384
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b76e03609a49a10800000000000000
+      internalID: 1915341585594612499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_1'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116575c9f206fe820800000000000000
+      internalID: 2949682038553662993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_2'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd418283ab5888a0800000000000000
+      internalID: -6302686920677700133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_3'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be2352cf9d569a20800000000000000
+      internalID: 3068743136840986297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_4'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1f4fb15fb583e0800000000000000
+      internalID: -2052023697374503844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_5'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3ed8c89922efb0800000000000000
+      internalID: -4620084531546931725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_6'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1613ba5efc40c2b0800000000000000
+      internalID: -5566364484102842851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_7'
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491fcba66eaf2a920800000000000000
+      internalID: 3000236169322361236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_8'
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 127
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f2b1bd49b137b0800000000000000
+      internalID: -5246208347565001153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd54bbd4a3d8ab0800000000000000
+      internalID: -5004279505409941647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_10'
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 64
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf4e4bd1fbf9060800000000000000
+      internalID: 6962493683247938542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_11'
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e558f64593a750800000000000000
+      internalID: 6315055234550196556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_12'
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 10
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a38ce47c6b7bc190800000000000000
+      internalID: -7941117812189396058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_13'
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469b860789c6385f0800000000000000
+      internalID: -755640910491371164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!doors_14'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca262332eddb9b70800000000000000
+      internalID: 8906956651645774539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!doors_0': 1915341585594612499
+      '!doors_1': 2949682038553662993
+      '!doors_10': 6962493683247938542
+      '!doors_11': 6315055234550196556
+      '!doors_12': -7941117812189396058
+      '!doors_13': -755640910491371164
+      '!doors_14': 8906956651645774539
+      '!doors_2': -6302686920677700133
+      '!doors_3': 3068743136840986297
+      '!doors_4': -2052023697374503844
+      '!doors_5': -4620084531546931725
+      '!doors_6': -5566364484102842851
+      '!doors_7': 3000236169322361236
+      '!doors_8': -5246208347565001153
+      '!doors_9': -5004279505409941647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

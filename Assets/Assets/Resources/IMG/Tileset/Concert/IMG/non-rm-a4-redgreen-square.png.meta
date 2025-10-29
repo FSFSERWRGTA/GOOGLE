@@ -1,0 +1,2847 @@
+fileFormatVersion: 2
+guid: b2a399f6c020cbf41b82e4532864d3c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3856231556208878181
+    second: non-rm-a4-redgreen-square_0
+  - first:
+      213: -8411930813640060382
+    second: non-rm-a4-redgreen-square_1
+  - first:
+      213: -4264050184012146504
+    second: non-rm-a4-redgreen-square_2
+  - first:
+      213: 3870862383792716476
+    second: non-rm-a4-redgreen-square_3
+  - first:
+      213: 3756230421056034817
+    second: non-rm-a4-redgreen-square_4
+  - first:
+      213: -8867352635297502548
+    second: non-rm-a4-redgreen-square_5
+  - first:
+      213: 2025855819738397309
+    second: non-rm-a4-redgreen-square_6
+  - first:
+      213: -4385026797172177468
+    second: non-rm-a4-redgreen-square_7
+  - first:
+      213: 5508383694122231385
+    second: non-rm-a4-redgreen-square_8
+  - first:
+      213: 7595797379287746182
+    second: non-rm-a4-redgreen-square_9
+  - first:
+      213: 1616748705437981406
+    second: non-rm-a4-redgreen-square_10
+  - first:
+      213: -3474045927611095596
+    second: non-rm-a4-redgreen-square_11
+  - first:
+      213: -8083467456630783255
+    second: non-rm-a4-redgreen-square_12
+  - first:
+      213: -3822819771513370770
+    second: non-rm-a4-redgreen-square_13
+  - first:
+      213: -3696638390553289963
+    second: non-rm-a4-redgreen-square_14
+  - first:
+      213: -7916868212964239162
+    second: non-rm-a4-redgreen-square_15
+  - first:
+      213: 4085258051218126865
+    second: non-rm-a4-redgreen-square_16
+  - first:
+      213: -1974220766017604399
+    second: non-rm-a4-redgreen-square_17
+  - first:
+      213: -1918877248415197990
+    second: non-rm-a4-redgreen-square_18
+  - first:
+      213: 7478410949173851043
+    second: non-rm-a4-redgreen-square_19
+  - first:
+      213: -7890372462781065383
+    second: non-rm-a4-redgreen-square_20
+  - first:
+      213: 384808307181702969
+    second: non-rm-a4-redgreen-square_21
+  - first:
+      213: -41175560174053283
+    second: non-rm-a4-redgreen-square_22
+  - first:
+      213: -3677348024969796393
+    second: non-rm-a4-redgreen-square_23
+  - first:
+      213: 8224312845143537362
+    second: non-rm-a4-redgreen-square_24
+  - first:
+      213: 453054022140056871
+    second: non-rm-a4-redgreen-square_25
+  - first:
+      213: 5944415962468918591
+    second: non-rm-a4-redgreen-square_26
+  - first:
+      213: -4545281826874959654
+    second: non-rm-a4-redgreen-square_27
+  - first:
+      213: -7245764210277347876
+    second: non-rm-a4-redgreen-square_28
+  - first:
+      213: 3071094594893013179
+    second: non-rm-a4-redgreen-square_29
+  - first:
+      213: -1000006980657628818
+    second: non-rm-a4-redgreen-square_30
+  - first:
+      213: -7081466675982064381
+    second: non-rm-a4-redgreen-square_31
+  - first:
+      213: -2070044456551160297
+    second: non-rm-a4-redgreen-square_32
+  - first:
+      213: -5310580605943891881
+    second: non-rm-a4-redgreen-square_33
+  - first:
+      213: -7404295161786669450
+    second: non-rm-a4-redgreen-square_34
+  - first:
+      213: 7838988518233386632
+    second: non-rm-a4-redgreen-square_35
+  - first:
+      213: -34573921352732304
+    second: non-rm-a4-redgreen-square_36
+  - first:
+      213: -5250342240716828257
+    second: non-rm-a4-redgreen-square_37
+  - first:
+      213: -2576140209149547572
+    second: non-rm-a4-redgreen-square_38
+  - first:
+      213: 3256131644469944004
+    second: non-rm-a4-redgreen-square_39
+  - first:
+      213: -1735849542241123997
+    second: non-rm-a4-redgreen-square_40
+  - first:
+      213: 3382130176104152920
+    second: non-rm-a4-redgreen-square_41
+  - first:
+      213: -6099042157364980037
+    second: non-rm-a4-redgreen-square_42
+  - first:
+      213: 4393485374556174412
+    second: non-rm-a4-redgreen-square_43
+  - first:
+      213: -4730772652857165935
+    second: non-rm-a4-redgreen-square_44
+  - first:
+      213: 6914246583709596672
+    second: non-rm-a4-redgreen-square_45
+  - first:
+      213: 4309385545534025676
+    second: non-rm-a4-redgreen-square_46
+  - first:
+      213: 3973475848841147912
+    second: non-rm-a4-redgreen-square_47
+  - first:
+      213: -957123628784005328
+    second: non-rm-a4-redgreen-square_48
+  - first:
+      213: -8630748476982331769
+    second: non-rm-a4-redgreen-square_49
+  - first:
+      213: -1845384145763051914
+    second: non-rm-a4-redgreen-square_50
+  - first:
+      213: 5894238963183607999
+    second: non-rm-a4-redgreen-square_51
+  - first:
+      213: -2400708933134116941
+    second: non-rm-a4-redgreen-square_52
+  - first:
+      213: 3482252500578060587
+    second: non-rm-a4-redgreen-square_53
+  - first:
+      213: -2249044851067033272
+    second: non-rm-a4-redgreen-square_54
+  - first:
+      213: 586224767104045619
+    second: non-rm-a4-redgreen-square_55
+  - first:
+      213: 1240983039359761096
+    second: non-rm-a4-redgreen-square_56
+  - first:
+      213: 8456384111670296794
+    second: non-rm-a4-redgreen-square_57
+  - first:
+      213: 3386642965243647349
+    second: non-rm-a4-redgreen-square_58
+  - first:
+      213: 3517449800367571591
+    second: non-rm-a4-redgreen-square_59
+  - first:
+      213: 2688403535680703278
+    second: non-rm-a4-redgreen-square_60
+  - first:
+      213: -3592563338901907055
+    second: non-rm-a4-redgreen-square_61
+  - first:
+      213: 1694329315082976698
+    second: non-rm-a4-redgreen-square_62
+  - first:
+      213: -5067284303219087983
+    second: non-rm-a4-redgreen-square_63
+  - first:
+      213: 7472594092116318088
+    second: non-rm-a4-redgreen-square_64
+  - first:
+      213: 4960859849205284092
+    second: non-rm-a4-redgreen-square_65
+  - first:
+      213: 3087308361608692522
+    second: non-rm-a4-redgreen-square_66
+  - first:
+      213: -4243163164809666722
+    second: non-rm-a4-redgreen-square_67
+  - first:
+      213: -4656438376031577399
+    second: non-rm-a4-redgreen-square_68
+  - first:
+      213: -5583398228298189459
+    second: non-rm-a4-redgreen-square_69
+  - first:
+      213: -2851456877995000738
+    second: non-rm-a4-redgreen-square_70
+  - first:
+      213: -8365442606008236499
+    second: non-rm-a4-redgreen-square_71
+  - first:
+      213: -2519603615529587401
+    second: non-rm-a4-redgreen-square_72
+  - first:
+      213: -137937967860853981
+    second: non-rm-a4-redgreen-square_73
+  - first:
+      213: 1909546089963710612
+    second: non-rm-a4-redgreen-square_74
+  - first:
+      213: -1642577165383824170
+    second: non-rm-a4-redgreen-square_75
+  - first:
+      213: -4927940802920389638
+    second: non-rm-a4-redgreen-square_76
+  - first:
+      213: 8759693169228916396
+    second: non-rm-a4-redgreen-square_77
+  - first:
+      213: 8917552024915335918
+    second: non-rm-a4-redgreen-square_78
+  - first:
+      213: -8228601805113166863
+    second: non-rm-a4-redgreen-square_79
+  - first:
+      213: 963747705204423011
+    second: non-rm-a4-redgreen-square_80
+  - first:
+      213: 3305950408330426957
+    second: non-rm-a4-redgreen-square_81
+  - first:
+      213: -912133319996607180
+    second: non-rm-a4-redgreen-square_82
+  - first:
+      213: -318743637106962311
+    second: non-rm-a4-redgreen-square_83
+  - first:
+      213: -4698314906510406175
+    second: non-rm-a4-redgreen-square_84
+  - first:
+      213: 1855312336513829529
+    second: non-rm-a4-redgreen-square_85
+  - first:
+      213: -3555086504302144766
+    second: non-rm-a4-redgreen-square_86
+  - first:
+      213: 4242013016905834280
+    second: non-rm-a4-redgreen-square_87
+  - first:
+      213: 5124488030692301813
+    second: non-rm-a4-redgreen-square_88
+  - first:
+      213: -6398501057896107445
+    second: non-rm-a4-redgreen-square_89
+  - first:
+      213: -2897282745296255582
+    second: non-rm-a4-redgreen-square_90
+  - first:
+      213: -8674263456830985927
+    second: non-rm-a4-redgreen-square_91
+  - first:
+      213: 6505753994941752355
+    second: non-rm-a4-redgreen-square_92
+  - first:
+      213: -1533075148786030234
+    second: non-rm-a4-redgreen-square_93
+  - first:
+      213: -5170155687080997574
+    second: non-rm-a4-redgreen-square_94
+  - first:
+      213: -4365934109331024857
+    second: non-rm-a4-redgreen-square_95
+  - first:
+      213: 7744225247441561616
+    second: non-rm-a4-redgreen-square_96
+  - first:
+      213: -3597902223380082189
+    second: non-rm-a4-redgreen-square_97
+  - first:
+      213: -4634073620442599232
+    second: non-rm-a4-redgreen-square_98
+  - first:
+      213: 7764306966000115417
+    second: non-rm-a4-redgreen-square_99
+  - first:
+      213: -5573059237733674146
+    second: non-rm-a4-redgreen-square_100
+  - first:
+      213: 5076400423110127444
+    second: non-rm-a4-redgreen-square_101
+  - first:
+      213: -2309908268513767336
+    second: non-rm-a4-redgreen-square_102
+  - first:
+      213: 7186047902135990456
+    second: non-rm-a4-redgreen-square_103
+  - first:
+      213: 8644585880436409301
+    second: non-rm-a4-redgreen-square_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1471
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5626b7f4b26148530800000000000000
+      internalID: 3856231556208878181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1471
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22252d94e71d24b80800000000000000
+      internalID: -8411930813640060382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1471
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8548513fc03d4c0800000000000000
+      internalID: -4264050184012146504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_3
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1471
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaf26054d018b530800000000000000
+      internalID: 3870862383792716476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1089f85aaafc02430800000000000000
+      internalID: 3756230421056034817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caae7fa62c5d0f480800000000000000
+      internalID: -8867352635297502548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3aa572294d1c10800000000000000
+      internalID: 2025855819738397309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5cbff5c514523c0800000000000000
+      internalID: -4385026797172177468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 895
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a5bef8c5b17c40800000000000000
+      internalID: 5508383694122231385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 895
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6860a42e871b96960800000000000000
+      internalID: 7595797379287746182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 895
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda14b6b168df6610800000000000000
+      internalID: 1616748705437981406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_11
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 895
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5295792a5b9cfc0800000000000000
+      internalID: -3474045927611095596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 607
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2871e1d21c1df80800000000000000
+      internalID: -8083467456630783255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e670b960cad92fac0800000000000000
+      internalID: -3822819771513370770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bdffb28f6e2bcc0800000000000000
+      internalID: -3696638390553289963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85fa04e42a12290800000000000000
+      internalID: -7916868212964239162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11839ae8d80c1b830800000000000000
+      internalID: 4085258051218126865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d432555ca82a94e0800000000000000
+      internalID: -1974220766017604399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad412a82f47ce55e0800000000000000
+      internalID: -1918877248415197990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a336edc227a8c760800000000000000
+      internalID: 7478410949173851043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9571962dc04cf7290800000000000000
+      internalID: -7890372462781065383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f4f28dd1d175500800000000000000
+      internalID: 384808307181702969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_22
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d562db07bd6ff0800000000000000
+      internalID: -41175560174053283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_23
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4e038647f67fcc0800000000000000
+      internalID: -3677348024969796393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6767855f0a22270800000000000000
+      internalID: 8224312845143537362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_25
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72558b59b32994600800000000000000
+      internalID: 453054022140056871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_26
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f352f10b2dece7250800000000000000
+      internalID: 5944415962468918591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_27
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 479
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad85419a24aebe0c0800000000000000
+      internalID: -4545281826874959654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_28
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 479
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0e2827dfd17b90800000000000000
+      internalID: -7245764210277347876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb068304348be9a20800000000000000
+      internalID: 3071094594893013179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 415
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69bdf803f24f12f0800000000000000
+      internalID: -1000006980657628818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a251d39399bd90800000000000000
+      internalID: -7081466675982064381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 415
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716600ac889b543e0800000000000000
+      internalID: -2070044456551160297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_33
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 415
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758b2a753170d46b0800000000000000
+      internalID: -5310580605943891881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_34
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 415
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ef8da7c8ae3990800000000000000
+      internalID: -7404295161786669450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_35
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eaaab468ea9cc60800000000000000
+      internalID: 7838988518233386632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 415
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713743a33b258ff0800000000000000
+      internalID: -34573921352732304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_37
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9158d0bc890327b0800000000000000
+      internalID: -5250342240716828257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_38
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 415
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6a06f026bf3cd0800000000000000
+      internalID: -2576140209149547572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_39
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce1a8a9a7a103d20800000000000000
+      internalID: 3256131644469944004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_40
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 415
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361813bc90609e7e0800000000000000
+      internalID: -1735849542241123997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_41
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f31d2d97dbfee20800000000000000
+      internalID: 3382130176104152920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_42
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 415
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6d024d879db5ba0800000000000000
+      internalID: -6099042157364980037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c487b44ababc8fc30800000000000000
+      internalID: 4393485374556174412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_44
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197f051465be85eb0800000000000000
+      internalID: -4730772652857165935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cf77772a654ff50800000000000000
+      internalID: 6914246583709596672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_46
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf22c152530ecb30800000000000000
+      internalID: 4309385545534025676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_47
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 287
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80635cd6b3f942730800000000000000
+      internalID: 3973475848841147912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_48
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f4234712d97b2f0800000000000000
+      internalID: -957123628784005328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_49
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 287
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78679b3ecfb693880800000000000000
+      internalID: -8630748476982331769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_50
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676d7ad85e0e366e0800000000000000
+      internalID: -1845384145763051914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_51
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 287
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb063d5ab1b8cc150800000000000000
+      internalID: 5894238963183607999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_52
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b71f6fd1f7feaed0800000000000000
+      internalID: -2400708933134116941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_53
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 287
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29cb231332735030800000000000000
+      internalID: 3482252500578060587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_54
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8496a38bf99c9c0e0800000000000000
+      internalID: -2249044851067033272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_55
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 287
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d5c9d150b22800800000000000000
+      internalID: 586224767104045619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_56
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 287
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab251df7bd83110800000000000000
+      internalID: 1240983039359761096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad08d54bb8c1b5570800000000000000
+      internalID: 8456384111670296794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755c6c65d5cffe20800000000000000
+      internalID: 3386642965243647349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7828d2a05fd70d030800000000000000
+      internalID: 3517449800367571591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_60
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b072d95c02f4520800000000000000
+      internalID: 2688403535680703278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19919af6da6a42ec0800000000000000
+      internalID: -3592563338901907055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd3d0ef887738710800000000000000
+      internalID: 1694329315082976698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_63
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a6ba16c36da9b0800000000000000
+      internalID: -5067284303219087983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_64
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887964b3cbcf3b760800000000000000
+      internalID: 7472594092116318088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_65
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf064cfb388d440800000000000000
+      internalID: 4960859849205284092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_66
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2387cdf89258da20800000000000000
+      internalID: 3087308361608692522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_67
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f5f7535914d15c0800000000000000
+      internalID: -4243163164809666722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_68
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1426c7f1016fb0800000000000000
+      internalID: -4656438376031577399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_69
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65bdbab4e8c382b0800000000000000
+      internalID: -5583398228298189459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_70
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c73ceb3179d68d0800000000000000
+      internalID: -2851456877995000738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_71
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2606f7954af7eb80800000000000000
+      internalID: -8365442606008236499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_72
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 223
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73da1917cd1980dd0800000000000000
+      internalID: -2519603615529587401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235d982622f51ef0800000000000000
+      internalID: -137937967860853981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e5863d02108a10800000000000000
+      internalID: 1909546089963710612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_75
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc012555c46439e0800000000000000
+      internalID: -1642577165383824170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3e6c7f2ff6c9bb0800000000000000
+      internalID: -4927940802920389638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_77
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca62e4dc68ea09970800000000000000
+      internalID: 8759693169228916396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eead427c15281cb70800000000000000
+      internalID: 8917552024915335918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_79
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3771851422ecd80800000000000000
+      internalID: -8228601805113166863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_80
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369bec58e6bef5d00800000000000000
+      internalID: 963747705204423011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_81
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab795716811ed20800000000000000
+      internalID: 3305950408330426957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_82
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435fdc104937753f0800000000000000
+      internalID: -912133319996607180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_83
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970d2dfc958939bf0800000000000000
+      internalID: -318743637106962311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_84
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed468a3c7b3cceb0800000000000000
+      internalID: -4698314906510406175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_85
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8e4d7db46fb910800000000000000
+      internalID: 1855312336513829529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_86
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2031945f8abc9aec0800000000000000
+      internalID: -3555086504302144766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_87
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 95
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f514d1d58aeda30800000000000000
+      internalID: 4242013016905834280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_88
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 95
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd72596b6dd1740800000000000000
+      internalID: 5124488030692301813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4234254035f337a0800000000000000
+      internalID: -6398501057896107445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_90
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a58fb091b8cac7d0800000000000000
+      internalID: -2897282745296255582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_91
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ef6f1853de9780800000000000000
+      internalID: -8674263456830985927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_92
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324e4981ac4194a50800000000000000
+      internalID: 6505753994941752355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_93
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66921a6564c69bae0800000000000000
+      internalID: -1533075148786030234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_94
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d42169bcaef38b0800000000000000
+      internalID: -5170155687080997574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_95
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724109c2f061963c0800000000000000
+      internalID: -4365934109331024857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_96
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018ad56f4d3097b60800000000000000
+      internalID: 7744225247441561616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_97
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f197d68dfea11ec0800000000000000
+      internalID: -3597902223380082189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_98
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b286389670bfb0800000000000000
+      internalID: -4634073620442599232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_99
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de178b6c0c50cb60800000000000000
+      internalID: 7764306966000115417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_100
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53dcae862488a2b0800000000000000
+      internalID: -5573059237733674146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_101
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2f15f94ff27640800000000000000
+      internalID: 5076400423110127444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_102
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850df7f0bae81ffd0800000000000000
+      internalID: -2309908268513767336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_103
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8b1c16e78f9b360800000000000000
+      internalID: 7186047902135990456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a4-redgreen-square_104
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 31
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d305c9ae0db7f770800000000000000
+      internalID: 8644585880436409301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      non-rm-a4-redgreen-square_0: 3856231556208878181
+      non-rm-a4-redgreen-square_1: -8411930813640060382
+      non-rm-a4-redgreen-square_10: 1616748705437981406
+      non-rm-a4-redgreen-square_100: -5573059237733674146
+      non-rm-a4-redgreen-square_101: 5076400423110127444
+      non-rm-a4-redgreen-square_102: -2309908268513767336
+      non-rm-a4-redgreen-square_103: 7186047902135990456
+      non-rm-a4-redgreen-square_104: 8644585880436409301
+      non-rm-a4-redgreen-square_11: -3474045927611095596
+      non-rm-a4-redgreen-square_12: -8083467456630783255
+      non-rm-a4-redgreen-square_13: -3822819771513370770
+      non-rm-a4-redgreen-square_14: -3696638390553289963
+      non-rm-a4-redgreen-square_15: -7916868212964239162
+      non-rm-a4-redgreen-square_16: 4085258051218126865
+      non-rm-a4-redgreen-square_17: -1974220766017604399
+      non-rm-a4-redgreen-square_18: -1918877248415197990
+      non-rm-a4-redgreen-square_19: 7478410949173851043
+      non-rm-a4-redgreen-square_2: -4264050184012146504
+      non-rm-a4-redgreen-square_20: -7890372462781065383
+      non-rm-a4-redgreen-square_21: 384808307181702969
+      non-rm-a4-redgreen-square_22: -41175560174053283
+      non-rm-a4-redgreen-square_23: -3677348024969796393
+      non-rm-a4-redgreen-square_24: 8224312845143537362
+      non-rm-a4-redgreen-square_25: 453054022140056871
+      non-rm-a4-redgreen-square_26: 5944415962468918591
+      non-rm-a4-redgreen-square_27: -4545281826874959654
+      non-rm-a4-redgreen-square_28: -7245764210277347876
+      non-rm-a4-redgreen-square_29: 3071094594893013179
+      non-rm-a4-redgreen-square_3: 3870862383792716476
+      non-rm-a4-redgreen-square_30: -1000006980657628818
+      non-rm-a4-redgreen-square_31: -7081466675982064381
+      non-rm-a4-redgreen-square_32: -2070044456551160297
+      non-rm-a4-redgreen-square_33: -5310580605943891881
+      non-rm-a4-redgreen-square_34: -7404295161786669450
+      non-rm-a4-redgreen-square_35: 7838988518233386632
+      non-rm-a4-redgreen-square_36: -34573921352732304
+      non-rm-a4-redgreen-square_37: -5250342240716828257
+      non-rm-a4-redgreen-square_38: -2576140209149547572
+      non-rm-a4-redgreen-square_39: 3256131644469944004
+      non-rm-a4-redgreen-square_4: 3756230421056034817
+      non-rm-a4-redgreen-square_40: -1735849542241123997
+      non-rm-a4-redgreen-square_41: 3382130176104152920
+      non-rm-a4-redgreen-square_42: -6099042157364980037
+      non-rm-a4-redgreen-square_43: 4393485374556174412
+      non-rm-a4-redgreen-square_44: -4730772652857165935
+      non-rm-a4-redgreen-square_45: 6914246583709596672
+      non-rm-a4-redgreen-square_46: 4309385545534025676
+      non-rm-a4-redgreen-square_47: 3973475848841147912
+      non-rm-a4-redgreen-square_48: -957123628784005328
+      non-rm-a4-redgreen-square_49: -8630748476982331769
+      non-rm-a4-redgreen-square_5: -8867352635297502548
+      non-rm-a4-redgreen-square_50: -1845384145763051914
+      non-rm-a4-redgreen-square_51: 5894238963183607999
+      non-rm-a4-redgreen-square_52: -2400708933134116941
+      non-rm-a4-redgreen-square_53: 3482252500578060587
+      non-rm-a4-redgreen-square_54: -2249044851067033272
+      non-rm-a4-redgreen-square_55: 586224767104045619
+      non-rm-a4-redgreen-square_56: 1240983039359761096
+      non-rm-a4-redgreen-square_57: 8456384111670296794
+      non-rm-a4-redgreen-square_58: 3386642965243647349
+      non-rm-a4-redgreen-square_59: 3517449800367571591
+      non-rm-a4-redgreen-square_6: 2025855819738397309
+      non-rm-a4-redgreen-square_60: 2688403535680703278
+      non-rm-a4-redgreen-square_61: -3592563338901907055
+      non-rm-a4-redgreen-square_62: 1694329315082976698
+      non-rm-a4-redgreen-square_63: -5067284303219087983
+      non-rm-a4-redgreen-square_64: 7472594092116318088
+      non-rm-a4-redgreen-square_65: 4960859849205284092
+      non-rm-a4-redgreen-square_66: 3087308361608692522
+      non-rm-a4-redgreen-square_67: -4243163164809666722
+      non-rm-a4-redgreen-square_68: -4656438376031577399
+      non-rm-a4-redgreen-square_69: -5583398228298189459
+      non-rm-a4-redgreen-square_7: -4385026797172177468
+      non-rm-a4-redgreen-square_70: -2851456877995000738
+      non-rm-a4-redgreen-square_71: -8365442606008236499
+      non-rm-a4-redgreen-square_72: -2519603615529587401
+      non-rm-a4-redgreen-square_73: -137937967860853981
+      non-rm-a4-redgreen-square_74: 1909546089963710612
+      non-rm-a4-redgreen-square_75: -1642577165383824170
+      non-rm-a4-redgreen-square_76: -4927940802920389638
+      non-rm-a4-redgreen-square_77: 8759693169228916396
+      non-rm-a4-redgreen-square_78: 8917552024915335918
+      non-rm-a4-redgreen-square_79: -8228601805113166863
+      non-rm-a4-redgreen-square_8: 5508383694122231385
+      non-rm-a4-redgreen-square_80: 963747705204423011
+      non-rm-a4-redgreen-square_81: 3305950408330426957
+      non-rm-a4-redgreen-square_82: -912133319996607180
+      non-rm-a4-redgreen-square_83: -318743637106962311
+      non-rm-a4-redgreen-square_84: -4698314906510406175
+      non-rm-a4-redgreen-square_85: 1855312336513829529
+      non-rm-a4-redgreen-square_86: -3555086504302144766
+      non-rm-a4-redgreen-square_87: 4242013016905834280
+      non-rm-a4-redgreen-square_88: 5124488030692301813
+      non-rm-a4-redgreen-square_89: -6398501057896107445
+      non-rm-a4-redgreen-square_9: 7595797379287746182
+      non-rm-a4-redgreen-square_90: -2897282745296255582
+      non-rm-a4-redgreen-square_91: -8674263456830985927
+      non-rm-a4-redgreen-square_92: 6505753994941752355
+      non-rm-a4-redgreen-square_93: -1533075148786030234
+      non-rm-a4-redgreen-square_94: -5170155687080997574
+      non-rm-a4-redgreen-square_95: -4365934109331024857
+      non-rm-a4-redgreen-square_96: 7744225247441561616
+      non-rm-a4-redgreen-square_97: -3597902223380082189
+      non-rm-a4-redgreen-square_98: -4634073620442599232
+      non-rm-a4-redgreen-square_99: 7764306966000115417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

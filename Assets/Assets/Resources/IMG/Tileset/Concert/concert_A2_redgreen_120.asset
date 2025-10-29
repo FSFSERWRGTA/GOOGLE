@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: concert_A2_redgreen_120
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: -398941037, guid: af7a0e933ce196a41aef2620de910a15, type: 3}
+  m_Sprite: {fileID: -2031195005, guid: dfe646fe389979947ba5553b7efbdc99, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

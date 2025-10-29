@@ -1,0 +1,6461 @@
+fileFormatVersion: 2
+guid: 7999ef9bff12a16418a4056da9c52aa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1534908387835393590
+    second: non-rm-a2-redgreen-square_0
+  - first:
+      213: -4928624761452436179
+    second: non-rm-a2-redgreen-square_1
+  - first:
+      213: -8984387291933632674
+    second: non-rm-a2-redgreen-square_2
+  - first:
+      213: -2020856006305457669
+    second: non-rm-a2-redgreen-square_3
+  - first:
+      213: 3120785576955837650
+    second: non-rm-a2-redgreen-square_4
+  - first:
+      213: 5795016002360223383
+    second: non-rm-a2-redgreen-square_5
+  - first:
+      213: -7328193137931354300
+    second: non-rm-a2-redgreen-square_6
+  - first:
+      213: 7144269474435145836
+    second: non-rm-a2-redgreen-square_7
+  - first:
+      213: 3038887334179535241
+    second: non-rm-a2-redgreen-square_8
+  - first:
+      213: 1907961548789023512
+    second: non-rm-a2-redgreen-square_9
+  - first:
+      213: -8417262667158805595
+    second: non-rm-a2-redgreen-square_10
+  - first:
+      213: -2989892133424117802
+    second: non-rm-a2-redgreen-square_11
+  - first:
+      213: 429235139758674764
+    second: non-rm-a2-redgreen-square_12
+  - first:
+      213: 8833294636681598826
+    second: non-rm-a2-redgreen-square_13
+  - first:
+      213: 131090953410966553
+    second: non-rm-a2-redgreen-square_14
+  - first:
+      213: 6033809749303995996
+    second: non-rm-a2-redgreen-square_15
+  - first:
+      213: -8427792858582469572
+    second: non-rm-a2-redgreen-square_16
+  - first:
+      213: -5743950907612139291
+    second: non-rm-a2-redgreen-square_17
+  - first:
+      213: 3421757324581213714
+    second: non-rm-a2-redgreen-square_18
+  - first:
+      213: 2078220277937895431
+    second: non-rm-a2-redgreen-square_19
+  - first:
+      213: 2395262649530705462
+    second: non-rm-a2-redgreen-square_20
+  - first:
+      213: -4432834456440111606
+    second: non-rm-a2-redgreen-square_21
+  - first:
+      213: -2962280775078026361
+    second: non-rm-a2-redgreen-square_22
+  - first:
+      213: -6262096966604420132
+    second: non-rm-a2-redgreen-square_23
+  - first:
+      213: -6505782438425068347
+    second: non-rm-a2-redgreen-square_24
+  - first:
+      213: -6670097515645850693
+    second: non-rm-a2-redgreen-square_25
+  - first:
+      213: -7858604944441420214
+    second: non-rm-a2-redgreen-square_26
+  - first:
+      213: -5610829795610970384
+    second: non-rm-a2-redgreen-square_27
+  - first:
+      213: -7315592486478897392
+    second: non-rm-a2-redgreen-square_28
+  - first:
+      213: 4826251063462322083
+    second: non-rm-a2-redgreen-square_29
+  - first:
+      213: -2081600586295458918
+    second: non-rm-a2-redgreen-square_30
+  - first:
+      213: 3630176891348496027
+    second: non-rm-a2-redgreen-square_31
+  - first:
+      213: -4014260988537013707
+    second: non-rm-a2-redgreen-square_32
+  - first:
+      213: 2719848607294822044
+    second: non-rm-a2-redgreen-square_33
+  - first:
+      213: 7287590400691525018
+    second: non-rm-a2-redgreen-square_34
+  - first:
+      213: -3432662360678298251
+    second: non-rm-a2-redgreen-square_35
+  - first:
+      213: 6468633123233237446
+    second: non-rm-a2-redgreen-square_36
+  - first:
+      213: -7331922069234032952
+    second: non-rm-a2-redgreen-square_37
+  - first:
+      213: -7065668114824799237
+    second: non-rm-a2-redgreen-square_38
+  - first:
+      213: 2759540573380934156
+    second: non-rm-a2-redgreen-square_39
+  - first:
+      213: -5559111069177046093
+    second: non-rm-a2-redgreen-square_40
+  - first:
+      213: 8497151198202739672
+    second: non-rm-a2-redgreen-square_41
+  - first:
+      213: -7851293651701328588
+    second: non-rm-a2-redgreen-square_42
+  - first:
+      213: 8003366682649320532
+    second: non-rm-a2-redgreen-square_43
+  - first:
+      213: 1864788300307806660
+    second: non-rm-a2-redgreen-square_44
+  - first:
+      213: -8028475913409873861
+    second: non-rm-a2-redgreen-square_45
+  - first:
+      213: -6768967199419766675
+    second: non-rm-a2-redgreen-square_46
+  - first:
+      213: -6771850454253475607
+    second: non-rm-a2-redgreen-square_47
+  - first:
+      213: 3248794836434000557
+    second: non-rm-a2-redgreen-square_48
+  - first:
+      213: 526129011988331671
+    second: non-rm-a2-redgreen-square_49
+  - first:
+      213: 6342766080543702390
+    second: non-rm-a2-redgreen-square_50
+  - first:
+      213: -104368165180332529
+    second: non-rm-a2-redgreen-square_51
+  - first:
+      213: -1308416679028802936
+    second: non-rm-a2-redgreen-square_52
+  - first:
+      213: 9023899536099674170
+    second: non-rm-a2-redgreen-square_53
+  - first:
+      213: 4980493572355110037
+    second: non-rm-a2-redgreen-square_54
+  - first:
+      213: -7679043253947169394
+    second: non-rm-a2-redgreen-square_55
+  - first:
+      213: -8085076681099338657
+    second: non-rm-a2-redgreen-square_56
+  - first:
+      213: 2147105466486053085
+    second: non-rm-a2-redgreen-square_57
+  - first:
+      213: -3295696189413903516
+    second: non-rm-a2-redgreen-square_58
+  - first:
+      213: -2502456904177457070
+    second: non-rm-a2-redgreen-square_59
+  - first:
+      213: 4557918547503765440
+    second: non-rm-a2-redgreen-square_60
+  - first:
+      213: -6693516379444123082
+    second: non-rm-a2-redgreen-square_61
+  - first:
+      213: -6141304439553258213
+    second: non-rm-a2-redgreen-square_62
+  - first:
+      213: -1245863403663524378
+    second: non-rm-a2-redgreen-square_63
+  - first:
+      213: 1973310889539871620
+    second: non-rm-a2-redgreen-square_64
+  - first:
+      213: 559727005988168583
+    second: non-rm-a2-redgreen-square_65
+  - first:
+      213: 3340802244539885243
+    second: non-rm-a2-redgreen-square_66
+  - first:
+      213: 1313663316681104714
+    second: non-rm-a2-redgreen-square_67
+  - first:
+      213: 3578238276316230634
+    second: non-rm-a2-redgreen-square_68
+  - first:
+      213: 8099819464930784165
+    second: non-rm-a2-redgreen-square_69
+  - first:
+      213: -80924440713855420
+    second: non-rm-a2-redgreen-square_70
+  - first:
+      213: -7738171887181661083
+    second: non-rm-a2-redgreen-square_71
+  - first:
+      213: -941800030340349214
+    second: non-rm-a2-redgreen-square_72
+  - first:
+      213: 118366311952274014
+    second: non-rm-a2-redgreen-square_73
+  - first:
+      213: 2019007938412507798
+    second: non-rm-a2-redgreen-square_74
+  - first:
+      213: 4249133398485589650
+    second: non-rm-a2-redgreen-square_75
+  - first:
+      213: 8850366718043196366
+    second: non-rm-a2-redgreen-square_76
+  - first:
+      213: 1724429511465791092
+    second: non-rm-a2-redgreen-square_77
+  - first:
+      213: 8068838054473992598
+    second: non-rm-a2-redgreen-square_78
+  - first:
+      213: 6607160220620605692
+    second: non-rm-a2-redgreen-square_79
+  - first:
+      213: -6763407129060037999
+    second: non-rm-a2-redgreen-square_80
+  - first:
+      213: 7085077482762846255
+    second: non-rm-a2-redgreen-square_81
+  - first:
+      213: 8310030949006682159
+    second: non-rm-a2-redgreen-square_82
+  - first:
+      213: -5255110798349658358
+    second: non-rm-a2-redgreen-square_83
+  - first:
+      213: 4963614740213699926
+    second: non-rm-a2-redgreen-square_84
+  - first:
+      213: 1821318340834992963
+    second: non-rm-a2-redgreen-square_85
+  - first:
+      213: 3690757650859458287
+    second: non-rm-a2-redgreen-square_86
+  - first:
+      213: 3739246133908537209
+    second: non-rm-a2-redgreen-square_87
+  - first:
+      213: 974245849828666143
+    second: non-rm-a2-redgreen-square_88
+  - first:
+      213: -3293131596331305267
+    second: non-rm-a2-redgreen-square_89
+  - first:
+      213: -8337958586346222119
+    second: non-rm-a2-redgreen-square_90
+  - first:
+      213: 5111538492486069388
+    second: non-rm-a2-redgreen-square_91
+  - first:
+      213: 6152537094488495336
+    second: non-rm-a2-redgreen-square_92
+  - first:
+      213: 7934747242364490252
+    second: non-rm-a2-redgreen-square_93
+  - first:
+      213: 5302775909932190135
+    second: non-rm-a2-redgreen-square_94
+  - first:
+      213: -6891639656087103260
+    second: non-rm-a2-redgreen-square_95
+  - first:
+      213: 1104507059461375858
+    second: non-rm-a2-redgreen-square_96
+  - first:
+      213: 895902783517113752
+    second: non-rm-a2-redgreen-square_97
+  - first:
+      213: 5278202791739287231
+    second: non-rm-a2-redgreen-square_98
+  - first:
+      213: 6642140164210516545
+    second: non-rm-a2-redgreen-square_99
+  - first:
+      213: 7505915135402335854
+    second: non-rm-a2-redgreen-square_100
+  - first:
+      213: -8353607837256480823
+    second: non-rm-a2-redgreen-square_101
+  - first:
+      213: -2316239522925673654
+    second: non-rm-a2-redgreen-square_102
+  - first:
+      213: -4214663542186089570
+    second: non-rm-a2-redgreen-square_103
+  - first:
+      213: 3126830512238229459
+    second: non-rm-a2-redgreen-square_104
+  - first:
+      213: -4296144928406771809
+    second: non-rm-a2-redgreen-square_105
+  - first:
+      213: 5750171598224741
+    second: non-rm-a2-redgreen-square_106
+  - first:
+      213: 2325005069244838689
+    second: non-rm-a2-redgreen-square_107
+  - first:
+      213: -6006512197027884541
+    second: non-rm-a2-redgreen-square_108
+  - first:
+      213: -449135554688293415
+    second: non-rm-a2-redgreen-square_109
+  - first:
+      213: -2178995940219915613
+    second: non-rm-a2-redgreen-square_110
+  - first:
+      213: -4481829043726683119
+    second: non-rm-a2-redgreen-square_111
+  - first:
+      213: -9150359437569840795
+    second: non-rm-a2-redgreen-square_112
+  - first:
+      213: 7826225337300105285
+    second: non-rm-a2-redgreen-square_113
+  - first:
+      213: -4928358863422837035
+    second: non-rm-a2-redgreen-square_114
+  - first:
+      213: -857224848260456608
+    second: non-rm-a2-redgreen-square_115
+  - first:
+      213: 7395707297020118427
+    second: non-rm-a2-redgreen-square_116
+  - first:
+      213: -283594253241721023
+    second: non-rm-a2-redgreen-square_117
+  - first:
+      213: -5416562558932921191
+    second: non-rm-a2-redgreen-square_118
+  - first:
+      213: 4356554430785816483
+    second: non-rm-a2-redgreen-square_119
+  - first:
+      213: -2565537428393885549
+    second: non-rm-a2-redgreen-square_120
+  - first:
+      213: -7420260899524601915
+    second: non-rm-a2-redgreen-square_121
+  - first:
+      213: -5416215247475417594
+    second: non-rm-a2-redgreen-square_122
+  - first:
+      213: 7148184101123974149
+    second: non-rm-a2-redgreen-square_123
+  - first:
+      213: -7250795692064415404
+    second: non-rm-a2-redgreen-square_124
+  - first:
+      213: 1658276266033361619
+    second: non-rm-a2-redgreen-square_125
+  - first:
+      213: -789673030427059183
+    second: non-rm-a2-redgreen-square_126
+  - first:
+      213: -1853410551235567674
+    second: non-rm-a2-redgreen-square_127
+  - first:
+      213: 4759218304399662851
+    second: non-rm-a2-redgreen-square_128
+  - first:
+      213: 4195188738268268059
+    second: non-rm-a2-redgreen-square_129
+  - first:
+      213: -8429008907108504660
+    second: non-rm-a2-redgreen-square_130
+  - first:
+      213: -8045874213677806311
+    second: non-rm-a2-redgreen-square_131
+  - first:
+      213: -321343557078675239
+    second: non-rm-a2-redgreen-square_132
+  - first:
+      213: -9086298407870075437
+    second: non-rm-a2-redgreen-square_133
+  - first:
+      213: -1250219640014686314
+    second: non-rm-a2-redgreen-square_134
+  - first:
+      213: -3787301396223318884
+    second: non-rm-a2-redgreen-square_135
+  - first:
+      213: -2670936406816617048
+    second: non-rm-a2-redgreen-square_136
+  - first:
+      213: -1931388082362290271
+    second: non-rm-a2-redgreen-square_137
+  - first:
+      213: 3083934470246801044
+    second: non-rm-a2-redgreen-square_138
+  - first:
+      213: 7000287825781833715
+    second: non-rm-a2-redgreen-square_139
+  - first:
+      213: 1712364174963951816
+    second: non-rm-a2-redgreen-square_140
+  - first:
+      213: 5385435894466679584
+    second: non-rm-a2-redgreen-square_141
+  - first:
+      213: -9022959502705071749
+    second: non-rm-a2-redgreen-square_142
+  - first:
+      213: 8302699012678151957
+    second: non-rm-a2-redgreen-square_143
+  - first:
+      213: -4274541254306201965
+    second: non-rm-a2-redgreen-square_144
+  - first:
+      213: 172303979203826952
+    second: non-rm-a2-redgreen-square_145
+  - first:
+      213: 8684062366910101264
+    second: non-rm-a2-redgreen-square_146
+  - first:
+      213: -2863683347743334453
+    second: non-rm-a2-redgreen-square_147
+  - first:
+      213: 6225184977765969707
+    second: non-rm-a2-redgreen-square_148
+  - first:
+      213: 9189860101929514865
+    second: non-rm-a2-redgreen-square_149
+  - first:
+      213: 1277710727839524432
+    second: non-rm-a2-redgreen-square_150
+  - first:
+      213: 155830207437647199
+    second: non-rm-a2-redgreen-square_151
+  - first:
+      213: -1624491275397079031
+    second: non-rm-a2-redgreen-square_152
+  - first:
+      213: 6116004532745331190
+    second: non-rm-a2-redgreen-square_153
+  - first:
+      213: -6404913171503825032
+    second: non-rm-a2-redgreen-square_154
+  - first:
+      213: 5495677702628574192
+    second: non-rm-a2-redgreen-square_155
+  - first:
+      213: -782646760300815021
+    second: non-rm-a2-redgreen-square_156
+  - first:
+      213: -3556472955446038882
+    second: non-rm-a2-redgreen-square_157
+  - first:
+      213: -3083761752473649507
+    second: non-rm-a2-redgreen-square_158
+  - first:
+      213: -3511125047972155594
+    second: non-rm-a2-redgreen-square_159
+  - first:
+      213: 7673470980011596245
+    second: non-rm-a2-redgreen-square_160
+  - first:
+      213: 9090173297615717960
+    second: non-rm-a2-redgreen-square_161
+  - first:
+      213: 5639561079901711361
+    second: non-rm-a2-redgreen-square_162
+  - first:
+      213: -1464864866454145527
+    second: non-rm-a2-redgreen-square_163
+  - first:
+      213: 4266587544159931747
+    second: non-rm-a2-redgreen-square_164
+  - first:
+      213: -1850673431999351725
+    second: non-rm-a2-redgreen-square_165
+  - first:
+      213: 6699037958320587034
+    second: non-rm-a2-redgreen-square_166
+  - first:
+      213: 4909589940337369481
+    second: non-rm-a2-redgreen-square_167
+  - first:
+      213: 9073262710610312620
+    second: non-rm-a2-redgreen-square_168
+  - first:
+      213: -5301985235002075689
+    second: non-rm-a2-redgreen-square_169
+  - first:
+      213: -2862828896288514721
+    second: non-rm-a2-redgreen-square_170
+  - first:
+      213: -8692880411620033998
+    second: non-rm-a2-redgreen-square_171
+  - first:
+      213: -6426424165720760339
+    second: non-rm-a2-redgreen-square_172
+  - first:
+      213: 6155009322890261841
+    second: non-rm-a2-redgreen-square_173
+  - first:
+      213: 5498966277655060058
+    second: non-rm-a2-redgreen-square_174
+  - first:
+      213: 337222083738382250
+    second: non-rm-a2-redgreen-square_175
+  - first:
+      213: -6408506779387469726
+    second: non-rm-a2-redgreen-square_176
+  - first:
+      213: 3769949878760740168
+    second: non-rm-a2-redgreen-square_177
+  - first:
+      213: -2143590450514072308
+    second: non-rm-a2-redgreen-square_178
+  - first:
+      213: -7779397618844454693
+    second: non-rm-a2-redgreen-square_179
+  - first:
+      213: 1770894097826464205
+    second: non-rm-a2-redgreen-square_180
+  - first:
+      213: 1504592465484143192
+    second: non-rm-a2-redgreen-square_181
+  - first:
+      213: -6467835768913408907
+    second: non-rm-a2-redgreen-square_182
+  - first:
+      213: -3469059357566487407
+    second: non-rm-a2-redgreen-square_183
+  - first:
+      213: -4172844753643467916
+    second: non-rm-a2-redgreen-square_184
+  - first:
+      213: -4496667301280054765
+    second: non-rm-a2-redgreen-square_185
+  - first:
+      213: -1825715353546753921
+    second: non-rm-a2-redgreen-square_186
+  - first:
+      213: -1977775710633972521
+    second: non-rm-a2-redgreen-square_187
+  - first:
+      213: 6547860213123630710
+    second: non-rm-a2-redgreen-square_188
+  - first:
+      213: -5720128919016286478
+    second: non-rm-a2-redgreen-square_189
+  - first:
+      213: -887300376195963148
+    second: non-rm-a2-redgreen-square_190
+  - first:
+      213: 5643621150912786805
+    second: non-rm-a2-redgreen-square_191
+  - first:
+      213: -7704730674324387288
+    second: non-rm-a2-redgreen-square_192
+  - first:
+      213: 7244854414398571347
+    second: non-rm-a2-redgreen-square_193
+  - first:
+      213: -7124450477416537005
+    second: non-rm-a2-redgreen-square_194
+  - first:
+      213: -6492994783957866491
+    second: non-rm-a2-redgreen-square_195
+  - first:
+      213: -3053759959655329106
+    second: non-rm-a2-redgreen-square_196
+  - first:
+      213: 7702660451544513435
+    second: non-rm-a2-redgreen-square_197
+  - first:
+      213: 4438226043056391633
+    second: non-rm-a2-redgreen-square_198
+  - first:
+      213: -4493168883231724416
+    second: non-rm-a2-redgreen-square_199
+  - first:
+      213: -7264412133521152886
+    second: non-rm-a2-redgreen-square_200
+  - first:
+      213: 3809937106209389623
+    second: non-rm-a2-redgreen-square_201
+  - first:
+      213: 8762201956834813120
+    second: non-rm-a2-redgreen-square_202
+  - first:
+      213: 4075984552159882705
+    second: non-rm-a2-redgreen-square_203
+  - first:
+      213: 7205468818770184561
+    second: non-rm-a2-redgreen-square_204
+  - first:
+      213: 2793848608166106677
+    second: non-rm-a2-redgreen-square_205
+  - first:
+      213: 2629999823081388474
+    second: non-rm-a2-redgreen-square_206
+  - first:
+      213: 5013677659544257884
+    second: non-rm-a2-redgreen-square_207
+  - first:
+      213: -8438341546614028968
+    second: non-rm-a2-redgreen-square_208
+  - first:
+      213: -5893548661947051436
+    second: non-rm-a2-redgreen-square_209
+  - first:
+      213: -3640092344094319538
+    second: non-rm-a2-redgreen-square_210
+  - first:
+      213: -6143701094924365605
+    second: non-rm-a2-redgreen-square_211
+  - first:
+      213: -1375007246977264829
+    second: non-rm-a2-redgreen-square_212
+  - first:
+      213: -6024133435850189583
+    second: non-rm-a2-redgreen-square_213
+  - first:
+      213: -1015554756103330826
+    second: non-rm-a2-redgreen-square_214
+  - first:
+      213: -4934694389213070541
+    second: non-rm-a2-redgreen-square_215
+  - first:
+      213: -5407765479222469939
+    second: non-rm-a2-redgreen-square_216
+  - first:
+      213: 8651538473135298518
+    second: non-rm-a2-redgreen-square_217
+  - first:
+      213: -5662731836908582473
+    second: non-rm-a2-redgreen-square_218
+  - first:
+      213: 4128020303795592710
+    second: non-rm-a2-redgreen-square_219
+  - first:
+      213: -8988226377276646697
+    second: non-rm-a2-redgreen-square_220
+  - first:
+      213: 2029068303276250471
+    second: non-rm-a2-redgreen-square_221
+  - first:
+      213: 2756793825473287496
+    second: non-rm-a2-redgreen-square_222
+  - first:
+      213: -4524990443721859876
+    second: non-rm-a2-redgreen-square_223
+  - first:
+      213: 6362515490175142478
+    second: non-rm-a2-redgreen-square_224
+  - first:
+      213: 3215565272393145617
+    second: non-rm-a2-redgreen-square_225
+  - first:
+      213: 2000736965212504222
+    second: non-rm-a2-redgreen-square_226
+  - first:
+      213: 2523845167764110042
+    second: non-rm-a2-redgreen-square_227
+  - first:
+      213: -5354242763994999221
+    second: non-rm-a2-redgreen-square_228
+  - first:
+      213: -2515526380056506854
+    second: non-rm-a2-redgreen-square_229
+  - first:
+      213: 834296648275053688
+    second: non-rm-a2-redgreen-square_230
+  - first:
+      213: -1900205209106514030
+    second: non-rm-a2-redgreen-square_231
+  - first:
+      213: -4212531883482159261
+    second: non-rm-a2-redgreen-square_232
+  - first:
+      213: 8311564520915596315
+    second: non-rm-a2-redgreen-square_233
+  - first:
+      213: 5294269689375961189
+    second: non-rm-a2-redgreen-square_234
+  - first:
+      213: 4255513106764923077
+    second: non-rm-a2-redgreen-square_235
+  - first:
+      213: 7611442757087875248
+    second: non-rm-a2-redgreen-square_236
+  - first:
+      213: 5756208834607718877
+    second: non-rm-a2-redgreen-square_237
+  - first:
+      213: -2558515151157327701
+    second: non-rm-a2-redgreen-square_238
+  - first:
+      213: -5184360531561799393
+    second: non-rm-a2-redgreen-square_239
+  - first:
+      213: -7238784520707549830
+    second: non-rm-a2-redgreen-square_240
+  - first:
+      213: -1522149353689103337
+    second: non-rm-a2-redgreen-square_241
+  - first:
+      213: -2026169779649797456
+    second: non-rm-a2-redgreen-square_242
+  - first:
+      213: 29794465063173368
+    second: non-rm-a2-redgreen-square_243
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2047
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63632b3eb071d4510800000000000000
+      internalID: 1534908387835393590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2047
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ee6674e10a9bb0800000000000000
+      internalID: -4928624761452436179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2047
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5713cbfb5b015380800000000000000
+      internalID: -8984387291933632674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_3
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2047
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d2f15b2a74f3e0800000000000000
+      internalID: -2020856006305457669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1759
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc7d9692f14f4b20800000000000000
+      internalID: 3120785576955837650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1759
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796a260d9580c6050800000000000000
+      internalID: 5795016002360223383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1759
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7520ea270d4a90800000000000000
+      internalID: -7328193137931354300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1471
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60af5b2c3b852360800000000000000
+      internalID: 7144269474435145836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1471
+        width: 545
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98974320eeb4c2a20800000000000000
+      internalID: 3038887334179535241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_9
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1471
+        width: 545
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8138ca87be07a7a10800000000000000
+      internalID: 1907961548789023512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a7d66330ef2b80800000000000000
+      internalID: -8417262667158805595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7458e12f4c186d0800000000000000
+      internalID: -2989892133424117802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_12
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435e6ed513f4f500800000000000000
+      internalID: 429235139758674764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_13
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1183
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6715c7dbaa269a70800000000000000
+      internalID: 8833294636681598826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 996
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f35f078ab1d100800000000000000
+      internalID: 131090953410966553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ead8d9ff56cb350800000000000000
+      internalID: 6033809749303995996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1124
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343e972c077a0b80800000000000000
+      internalID: -8427792858582469572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 996
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0fe7015136940b0800000000000000
+      internalID: -5743950907612139291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216114f48268c7f20800000000000000
+      internalID: 3421757324581213714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1124
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7087087f45257dc10800000000000000
+      internalID: 2078220277937895431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_20
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 895
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e90960bead3120800000000000000
+      internalID: 2395262649530705462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_21
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1087
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e76cb4c886b72c0800000000000000
+      internalID: -4432834456440111606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1087
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7836184745dd3e6d0800000000000000
+      internalID: -2962280775078026361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1028
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb0e74acff8819a0800000000000000
+      internalID: -6262096966604420132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1087
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf2b36751d6b5a0800000000000000
+      internalID: -6505782438425068347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1087
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbba6b236ad0f63a0800000000000000
+      internalID: -6670097515645850693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1087
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d0709070a0f290800000000000000
+      internalID: -7858604944441420214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1028
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f63e6147045222b0800000000000000
+      internalID: -5610829795610970384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1087
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f98e9a46bc97a90800000000000000
+      internalID: -7315592486478897392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1087
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afd58a85c94af240800000000000000
+      internalID: 4826251063462322083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_30
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1087
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934d99ab4bac13e0800000000000000
+      internalID: -2081600586295458918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_31
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1065
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea8a036aaf06230800000000000000
+      internalID: 3630176891348496027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1028
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53afa8e36ea7a48c0800000000000000
+      internalID: -4014260988537013707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_33
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1028
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9616a0e5e7deb520800000000000000
+      internalID: 2719848607294822044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_34
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 991
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95d3cdabd8b22560800000000000000
+      internalID: 7287590400691525018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_35
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 991
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d8aed15cbbc50d0800000000000000
+      internalID: -3432662360678298251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 991
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c984a4ad8335c950800000000000000
+      internalID: 6468633123233237446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 991
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce557669b7cf3a90800000000000000
+      internalID: -7331922069234032952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 991
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb501bf844b1fd90800000000000000
+      internalID: -7065668114824799237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 991
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af5a3e78bdb4620800000000000000
+      internalID: 2759540573380934156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_40
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 991
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb92ce9fe11ad2b0800000000000000
+      internalID: -5559111069177046093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_41
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 991
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbb8a3bef1fbe570800000000000000
+      internalID: 8497151198202739672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_42
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 991
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435101f850a9a0390800000000000000
+      internalID: -7851293651701328588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_43
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 980
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c528e189ba11f60800000000000000
+      internalID: 8003366682649320532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_44
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 991
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b62d341f01e910800000000000000
+      internalID: 1864788300307806660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_45
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 913
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38bc6581bf159090800000000000000
+      internalID: -8028475913409873861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 900
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d686056123ccf02a0800000000000000
+      internalID: -6768967199419766675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 932
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8672204ed8502a0800000000000000
+      internalID: -6771850454253475607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 964
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa95cdd0b9061d20800000000000000
+      internalID: 3248794836434000557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 959
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c77918c8f2d4700800000000000000
+      internalID: 526129011988331671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 959
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d34341528060850800000000000000
+      internalID: 6342766080543702390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 900
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06219ce4b53d8ef0800000000000000
+      internalID: -104368165180332529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_52
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 932
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aba4476f197dde0800000000000000
+      internalID: -1308416679028802936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_53
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 964
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38880241d45b3d70800000000000000
+      internalID: 9023899536099674170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_54
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 959
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b75a24844e1540800000000000000
+      internalID: 4980493572355110037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 959
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858e9988de8e6590800000000000000
+      internalID: -7679043253947169394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 932
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c974958990ccf80800000000000000
+      internalID: -8085076681099338657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 895
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd85331cb0d0ccd10800000000000000
+      internalID: 2147105466486053085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 895
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463306ee6c55342d0800000000000000
+      internalID: -3295696189413903516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_59
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 932
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25867c844bc754dd0800000000000000
+      internalID: -2502456904177457070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_60
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 895
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7502325caf04f30800000000000000
+      internalID: 4557918547503765440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_61
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 895
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a69f0115adb13a0800000000000000
+      internalID: -6693516379444123082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 895
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d06e67624b5caa0800000000000000
+      internalID: -6141304439553258213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 895
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf9f1d5ddc5bee0800000000000000
+      internalID: -1245863403663524378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 895
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832f6a8ccb926b10800000000000000
+      internalID: 1973310889539871620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_65
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 895
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7832e131fbc84c700800000000000000
+      internalID: 559727005988168583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 709
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6a0aae0f9ec5e20800000000000000
+      internalID: 3340802244539885243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 854
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d1d3193d11b3210800000000000000
+      internalID: 1313663316681104714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_68
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 607
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f88501c478a130800000000000000
+      internalID: 3578238276316230634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_69
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 607
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a37eff73e6586070800000000000000
+      internalID: 8099819464930784165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_70
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 822
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7a9166af70eef0800000000000000
+      internalID: -80924440713855420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 799
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c7f9dcaad7c9490800000000000000
+      internalID: -7738171887181661083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 831
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28c1ebcdd0ee2f0800000000000000
+      internalID: -941800030340349214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 790
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d949988584a100800000000000000
+      internalID: 118366311952274014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 831
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69275c7d505f40c10800000000000000
+      internalID: 2019007938412507798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 790
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e5bf32054f7fa30800000000000000
+      internalID: 4249133398485589650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 822
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb87e883a1d2da70800000000000000
+      internalID: 8850366718043196366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 799
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e6e1711876ee710800000000000000
+      internalID: 1724429511465791092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 822
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6998313c5754aff60800000000000000
+      internalID: 8068838054473992598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_79
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 799
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8ce24e63951bb50800000000000000
+      internalID: 6607160220620605692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_80
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 790
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a2809dc0d8322a0800000000000000
+      internalID: -6763407129060037999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 799
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c236ae60435260800000000000000
+      internalID: 7085077482762846255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_82
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 799
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ab04ae19235370800000000000000
+      internalID: 8310030949006682159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_83
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 799
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a079c0952981217b0800000000000000
+      internalID: -5255110798349658358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_84
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 777
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559450de4d42e440800000000000000
+      internalID: 4963614740213699926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_85
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 758
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343af58916f964910800000000000000
+      internalID: 1821318340834992963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_86
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 758
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee788b6784383330800000000000000
+      internalID: 3690757650859458287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_87
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 758
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ffe532c8874e330800000000000000
+      internalID: 3739246133908537209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_88
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 703
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bafea4077358d00800000000000000
+      internalID: 974245849828666143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 613
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6be0ac2427c42d0800000000000000
+      internalID: -3293131596331305267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_90
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 607
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd4ae497de994c80800000000000000
+      internalID: -8337958586346222119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_91
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 677
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c2e544d25dfe640800000000000000
+      internalID: 5111538492486069388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 703
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e49660d3e3326550800000000000000
+      internalID: 6152537094488495336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_93
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 703
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0255aba392ed1e60800000000000000
+      internalID: 7934747242364490252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_94
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 694
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9c103489e379940800000000000000
+      internalID: 5302775909932190135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_95
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 726
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8deea0f3afb50a0800000000000000
+      internalID: -6891639656087103260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 703
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2774b13915ff35f00800000000000000
+      internalID: 1104507059461375858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 703
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d32dcb5d2ee6c00800000000000000
+      internalID: 895902783517113752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_98
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 694
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb668165971ff3940800000000000000
+      internalID: 5278202791739287231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_99
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 726
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1426f1ca94f9d2c50800000000000000
+      internalID: 6642140164210516545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_100
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 703
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e52ef2c0e5a2860800000000000000
+      internalID: 7505915135402335854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_101
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 703
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7886b6ee5021c80800000000000000
+      internalID: -8353607837256480823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_102
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 703
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a438b450d601bdfd0800000000000000
+      internalID: -2316239522925673654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_103
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 692
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e936530b6d18285c0800000000000000
+      internalID: -4214663542186089570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_104
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 703
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ffc2c8cbb46b20800000000000000
+      internalID: 3126830512238229459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_105
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 625
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e7b613f60164c0800000000000000
+      internalID: -4296144928406771809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_106
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 671
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d728720cd641000800000000000000
+      internalID: 5750171598224741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_107
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 662
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1233255cac3144020800000000000000
+      internalID: 2325005069244838689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_108
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 671
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3021a1d0bf494aca0800000000000000
+      internalID: -6006512197027884541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 671
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56ec6b79954c9f0800000000000000
+      internalID: -449135554688293415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_110
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 662
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a27c28bcb6a2c1e0800000000000000
+      internalID: -2178995940219915613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 645
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11474a00b385dc1c0800000000000000
+      internalID: -4481829043726683119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 630
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569a18c7294630180800000000000000
+      internalID: -9150359437569840795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 630
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5483fe9aa765c9c60800000000000000
+      internalID: 7826225337300105285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_114
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 630
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dea80ca9b3fa9bb0800000000000000
+      internalID: -4928358863422837035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 630
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f1cc2da868a14f0800000000000000
+      internalID: -857224848260456608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 607
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9506ad3a94d2a660800000000000000
+      internalID: 7395707297020118427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_117
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 630
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f5f2b7788701cf0800000000000000
+      internalID: -283594253241721023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_118
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 630
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9945f130d0184d4b0800000000000000
+      internalID: -5416562558932921191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_119
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 607
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a784ab3c27957c30800000000000000
+      internalID: 4356554430785816483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_120
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 607
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3900d9a3d41656cd0800000000000000
+      internalID: -2565537428393885549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_121
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 607
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79d1fa600f50990800000000000000
+      internalID: -7420260899524601915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_122
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 607
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e5c23cdecb5d4b0800000000000000
+      internalID: -5416215247475417594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_123
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 420
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e6983193733360800000000000000
+      internalID: 7148184101123974149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_124
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 564
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45161930cbfff5b90800000000000000
+      internalID: -7250795692064415404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_125
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 319
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d231606a71630710800000000000000
+      internalID: 1658276266033361619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_126
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 319
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c50bc00948a05f0800000000000000
+      internalID: -789673030427059183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_127
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 319
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf94a66cec5746e0800000000000000
+      internalID: -1853410551235567674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_128
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 543
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f574a15d32c0240800000000000000
+      internalID: 4759218304399662851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_129
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 543
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16033e2eed483a30800000000000000
+      internalID: 4195188738268268059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_130
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 548
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba13bce05260b80800000000000000
+      internalID: -8429008907108504660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_131
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 511
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d42421800575090800000000000000
+      internalID: -8045874213677806311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_132
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 532
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d01775ccbb5a8bf0800000000000000
+      internalID: -321343557078675239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_133
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 532
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde4b34dbbf6e180800000000000000
+      internalID: -9086298407870075437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_134
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 532
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69735b18cd356aee0800000000000000
+      internalID: -1250219640014686314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_135
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 511
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94a4c4327dc07bc0800000000000000
+      internalID: -3787301396223318884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_136
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 511
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad890e3d7deeead0800000000000000
+      internalID: -2670936406816617048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_137
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 511
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af6f53a5c45235e0800000000000000
+      internalID: -1931388082362290271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_138
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 511
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e94a1bf065cca20800000000000000
+      internalID: 3083934470246801044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_139
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 500
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffb73d30b4062160800000000000000
+      internalID: 7000287825781833715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 500
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c4d6052a83c710800000000000000
+      internalID: 1712364174963951816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_141
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 511
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023135aa969ecba40800000000000000
+      internalID: 5385435894466679584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_142
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 511
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b796782532208c280800000000000000
+      internalID: -9022959502705071749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_143
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 489
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51feaaf23cc193370800000000000000
+      internalID: 8302699012678151957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_144
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 500
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e735f6067cda4c0800000000000000
+      internalID: -4274541254306201965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 468
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80594d16e85246200800000000000000
+      internalID: 172303979203826952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_146
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 468
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b30b66bcf38870800000000000000
+      internalID: 8684062366910101264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_147
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 468
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf9e8cea272248d0800000000000000
+      internalID: -2863683347743334453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_148
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 415
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa6dc31cc446650800000000000000
+      internalID: 6225184977765969707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_149
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 452
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1773b0f9211f88f70800000000000000
+      internalID: 9189860101929514865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_150
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 452
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a49a23275bb110800000000000000
+      internalID: 1277710727839524432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_151
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da89f7fbe992200800000000000000
+      internalID: 155830207437647199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_152
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 415
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006c3dbac5a479e0800000000000000
+      internalID: -1624491275397079031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_153
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 415
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1e6f2f7b960e450800000000000000
+      internalID: 6116004532745331190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_154
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 436
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3b4bb76d2d17a0800000000000000
+      internalID: -6404913171503825032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_155
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 415
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f30631d0c1944c40800000000000000
+      internalID: 5495677702628574192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_156
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 415
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd8ab0bea7325f0800000000000000
+      internalID: -782646760300815021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_157
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 436
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eea55a0bed4aec0800000000000000
+      internalID: -3556472955446038882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_158
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 415
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3fdb46074435d0800000000000000
+      internalID: -3083761752473649507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_159
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa4a12f5af54fc0800000000000000
+      internalID: -3511125047972155594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_160
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d91cd55335ad7a60800000000000000
+      internalID: 7673470980011596245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_161
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846402fc378c62e70800000000000000
+      internalID: 9090173297615717960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_162
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 415
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce8a82ceeb34e40800000000000000
+      internalID: 5639561079901711361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_163
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 404
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906fc074a21cbabe0800000000000000
+      internalID: -1464864866454145527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_164
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 337
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d42cc14c6f53b30800000000000000
+      internalID: 4266587544159931747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_165
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 324
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354fc62a1561156e0800000000000000
+      internalID: -1850673431999351725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_166
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 356
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a118e82b783c7fc50800000000000000
+      internalID: 6699037958320587034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_167
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 388
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e3a2e90e522440800000000000000
+      internalID: 4909589940337369481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_168
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 404
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb9b3fc54baed70800000000000000
+      internalID: 9073262710610312620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_169
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 404
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d55715809b66b0800000000000000
+      internalID: -5301985235002075689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_170
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 383
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ddff769403548d0800000000000000
+      internalID: -2862828896288514721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_171
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 372
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23abf6e825fac5780800000000000000
+      internalID: -8692880411620033998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_172
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 383
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def5a3a1541c0d6a0800000000000000
+      internalID: -6426424165720760339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_173
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 383
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15577185e5cfa6550800000000000000
+      internalID: 6155009322890261841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_174
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 372
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5b7bd1b0405c40800000000000000
+      internalID: 5498966277655060058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_175
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 356
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa4afc2bd0ea400800000000000000
+      internalID: 337222083738382250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_176
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 340
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2606de1b9096017a0800000000000000
+      internalID: -6408506779387469726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_177
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 340
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8459f80d07d815430800000000000000
+      internalID: 3769949878760740168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_178
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 340
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d603da7df6042e0800000000000000
+      internalID: -2143590450514072308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_179
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 340
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b14a25170a0490800000000000000
+      internalID: -7779397618844454693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_180
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 319
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc148c3acca739810800000000000000
+      internalID: 1770894097826464205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_181
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 319
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a59ec20e261e410800000000000000
+      internalID: 1504592465484143192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_182
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 340
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cc950e2a1ad36a0800000000000000
+      internalID: -6467835768913408907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_183
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 340
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1943187e4ec6bdfc0800000000000000
+      internalID: -3469059357566487407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_184
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b8a342ec31716c0800000000000000
+      internalID: -4172844753643467916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_185
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 319
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3128612f9e0a891c0800000000000000
+      internalID: -4496667301280054765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_186
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 319
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787eda1f81c9a6e0800000000000000
+      internalID: -1825715353546753921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_187
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 319
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc244a48778d84e0800000000000000
+      internalID: -1977775710633972521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_188
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c52afb2caeda50800000000000000
+      internalID: 6547860213123630710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_189
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 276
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f658900e050e90b0800000000000000
+      internalID: -5720128919016286478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_190
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e4cb420dafa3f0800000000000000
+      internalID: -887300376195963148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_191
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 31
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b90b198b225e40800000000000000
+      internalID: 5643621150912786805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_192
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 31
+        width: 354
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac6dae54c431590800000000000000
+      internalID: -7704730674324387288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_193
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c5ab74b4ea8460800000000000000
+      internalID: 7244854414398571347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_194
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 255
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354a9b9a90ed02d90800000000000000
+      internalID: -7124450477416537005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_195
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 260
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5082ab535af34e5a0800000000000000
+      internalID: -6492994783957866491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_196
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 244
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2de670f7dde95d0800000000000000
+      internalID: -3053759959655329106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_197
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 244
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb2c7ced855ea60800000000000000
+      internalID: 7702660451544513435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_198
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 244
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d58349421fb79d30800000000000000
+      internalID: 4438226043056391633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_199
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 223
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c622fd4be05a1c0800000000000000
+      internalID: -4493168883231724416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_200
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 223
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a842f6f27af9f2b90800000000000000
+      internalID: -7264412133521152886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_201
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 223
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb038bc9d9fd430800000000000000
+      internalID: 3809937106209389623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_202
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 212
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c42f5f6148999970800000000000000
+      internalID: 8762201956834813120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_203
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 212
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd287dca5ec09830800000000000000
+      internalID: 4075984552159882705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_204
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 223
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17943f6e6b7fef360800000000000000
+      internalID: 7205468818770184561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_205
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 223
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536d5f5b18eb5c620800000000000000
+      internalID: 2793848608166106677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_206
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 212
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab93b1e97e2af7420800000000000000
+      internalID: 2629999823081388474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_207
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 180
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55827b8449249540800000000000000
+      internalID: 5013677659544257884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_208
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 180
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85586a4521df4ea80800000000000000
+      internalID: -8438341546614028968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_209
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 180
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452da22a7b8e53ea0800000000000000
+      internalID: -5893548661947051436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_210
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 164
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c93a09c4bcb7dc0800000000000000
+      internalID: -3640092344094319538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_211
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 164
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0dad6a7603dbaa0800000000000000
+      internalID: -6143701094924365605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_212
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 127
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3431558a13efaece0800000000000000
+      internalID: -1375007246977264829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 127
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4989cae8af56ca0800000000000000
+      internalID: -6024133435850189583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_214
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a088745608e1f0800000000000000
+      internalID: -1015554756103330826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_215
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 127
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b77df1991748bb0800000000000000
+      internalID: -4934694389213070541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_216
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 127
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca135eb2f1c3f4b0800000000000000
+      internalID: -5407765479222469939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_217
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7dadb4760701870800000000000000
+      internalID: 8651538473135298518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_218
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9c4c2956fe961b0800000000000000
+      internalID: -5662731836908582473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_219
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1659589ca94930800000000000000
+      internalID: 4128020303795592710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_220
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da11a54bb7634380800000000000000
+      internalID: -8988226377276646697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_221
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76519c11fd2b82c10800000000000000
+      internalID: 2029068303276250471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_222
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845535ec069124620800000000000000
+      internalID: 2756793825473287496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_223
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 100
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdbe57a210431c0800000000000000
+      internalID: -4524990443721859876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_224
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 116
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a4fc5d0223c4850800000000000000
+      internalID: 6362515490175142478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_225
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 116
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d5315149bff9c20800000000000000
+      internalID: 3215565272393145617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_226
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e900c746bab04cb10800000000000000
+      internalID: 2000736965212504222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_227
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 84
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada7aa4eecf760320800000000000000
+      internalID: 2523845167764110042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_228
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b465fdaf298e1b5b0800000000000000
+      internalID: -5354242763994999221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_229
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e8b9dc51e071dd0800000000000000
+      internalID: -2515526380056506854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_230
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 84
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ccbbd9164049b00800000000000000
+      internalID: 834296648275053688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_231
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ffbd61e6d11a5e0800000000000000
+      internalID: -1900205209106514030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_232
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 52
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e90822941a85c0800000000000000
+      internalID: -4212531883482159261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_233
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 52
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14f9ec25eb985370800000000000000
+      internalID: 8311564520915596315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_234
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 52
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603f547b36097940800000000000000
+      internalID: 5294269689375961189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_235
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 52
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c00eb9bf9e9e0b30800000000000000
+      internalID: 4255513106764923077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_236
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b051744cd641a960800000000000000
+      internalID: 7611442757087875248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_237
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 31
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd122c7ff6922ef40800000000000000
+      internalID: 5756208834607718877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_238
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 52
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba800de86045e7cd0800000000000000
+      internalID: -2558515151157327701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_239
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1124b080937d08b0800000000000000
+      internalID: -5184360531561799393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_240
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7551a5c4dbaa8b90800000000000000
+      internalID: -7238784520707549830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_241
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714454e3a3d30eae0800000000000000
+      internalID: -1522149353689103337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_242
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 31
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a75d025991e3e0800000000000000
+      internalID: -2026169779649797456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: non-rm-a2-redgreen-square_243
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcfc5a78e9d96000800000000000000
+      internalID: 29794465063173368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      non-rm-a2-redgreen-square_0: 1534908387835393590
+      non-rm-a2-redgreen-square_1: -4928624761452436179
+      non-rm-a2-redgreen-square_10: -8417262667158805595
+      non-rm-a2-redgreen-square_100: 7505915135402335854
+      non-rm-a2-redgreen-square_101: -8353607837256480823
+      non-rm-a2-redgreen-square_102: -2316239522925673654
+      non-rm-a2-redgreen-square_103: -4214663542186089570
+      non-rm-a2-redgreen-square_104: 3126830512238229459
+      non-rm-a2-redgreen-square_105: -4296144928406771809
+      non-rm-a2-redgreen-square_106: 5750171598224741
+      non-rm-a2-redgreen-square_107: 2325005069244838689
+      non-rm-a2-redgreen-square_108: -6006512197027884541
+      non-rm-a2-redgreen-square_109: -449135554688293415
+      non-rm-a2-redgreen-square_11: -2989892133424117802
+      non-rm-a2-redgreen-square_110: -2178995940219915613
+      non-rm-a2-redgreen-square_111: -4481829043726683119
+      non-rm-a2-redgreen-square_112: -9150359437569840795
+      non-rm-a2-redgreen-square_113: 7826225337300105285
+      non-rm-a2-redgreen-square_114: -4928358863422837035
+      non-rm-a2-redgreen-square_115: -857224848260456608
+      non-rm-a2-redgreen-square_116: 7395707297020118427
+      non-rm-a2-redgreen-square_117: -283594253241721023
+      non-rm-a2-redgreen-square_118: -5416562558932921191
+      non-rm-a2-redgreen-square_119: 4356554430785816483
+      non-rm-a2-redgreen-square_12: 429235139758674764
+      non-rm-a2-redgreen-square_120: -2565537428393885549
+      non-rm-a2-redgreen-square_121: -7420260899524601915
+      non-rm-a2-redgreen-square_122: -5416215247475417594
+      non-rm-a2-redgreen-square_123: 7148184101123974149
+      non-rm-a2-redgreen-square_124: -7250795692064415404
+      non-rm-a2-redgreen-square_125: 1658276266033361619
+      non-rm-a2-redgreen-square_126: -789673030427059183
+      non-rm-a2-redgreen-square_127: -1853410551235567674
+      non-rm-a2-redgreen-square_128: 4759218304399662851
+      non-rm-a2-redgreen-square_129: 4195188738268268059
+      non-rm-a2-redgreen-square_13: 8833294636681598826
+      non-rm-a2-redgreen-square_130: -8429008907108504660
+      non-rm-a2-redgreen-square_131: -8045874213677806311
+      non-rm-a2-redgreen-square_132: -321343557078675239
+      non-rm-a2-redgreen-square_133: -9086298407870075437
+      non-rm-a2-redgreen-square_134: -1250219640014686314
+      non-rm-a2-redgreen-square_135: -3787301396223318884
+      non-rm-a2-redgreen-square_136: -2670936406816617048
+      non-rm-a2-redgreen-square_137: -1931388082362290271
+      non-rm-a2-redgreen-square_138: 3083934470246801044
+      non-rm-a2-redgreen-square_139: 7000287825781833715
+      non-rm-a2-redgreen-square_14: 131090953410966553
+      non-rm-a2-redgreen-square_140: 1712364174963951816
+      non-rm-a2-redgreen-square_141: 5385435894466679584
+      non-rm-a2-redgreen-square_142: -9022959502705071749
+      non-rm-a2-redgreen-square_143: 8302699012678151957
+      non-rm-a2-redgreen-square_144: -4274541254306201965
+      non-rm-a2-redgreen-square_145: 172303979203826952
+      non-rm-a2-redgreen-square_146: 8684062366910101264
+      non-rm-a2-redgreen-square_147: -2863683347743334453
+      non-rm-a2-redgreen-square_148: 6225184977765969707
+      non-rm-a2-redgreen-square_149: 9189860101929514865
+      non-rm-a2-redgreen-square_15: 6033809749303995996
+      non-rm-a2-redgreen-square_150: 1277710727839524432
+      non-rm-a2-redgreen-square_151: 155830207437647199
+      non-rm-a2-redgreen-square_152: -1624491275397079031
+      non-rm-a2-redgreen-square_153: 6116004532745331190
+      non-rm-a2-redgreen-square_154: -6404913171503825032
+      non-rm-a2-redgreen-square_155: 5495677702628574192
+      non-rm-a2-redgreen-square_156: -782646760300815021
+      non-rm-a2-redgreen-square_157: -3556472955446038882
+      non-rm-a2-redgreen-square_158: -3083761752473649507
+      non-rm-a2-redgreen-square_159: -3511125047972155594
+      non-rm-a2-redgreen-square_16: -8427792858582469572
+      non-rm-a2-redgreen-square_160: 7673470980011596245
+      non-rm-a2-redgreen-square_161: 9090173297615717960
+      non-rm-a2-redgreen-square_162: 5639561079901711361
+      non-rm-a2-redgreen-square_163: -1464864866454145527
+      non-rm-a2-redgreen-square_164: 4266587544159931747
+      non-rm-a2-redgreen-square_165: -1850673431999351725
+      non-rm-a2-redgreen-square_166: 6699037958320587034
+      non-rm-a2-redgreen-square_167: 4909589940337369481
+      non-rm-a2-redgreen-square_168: 9073262710610312620
+      non-rm-a2-redgreen-square_169: -5301985235002075689
+      non-rm-a2-redgreen-square_17: -5743950907612139291
+      non-rm-a2-redgreen-square_170: -2862828896288514721
+      non-rm-a2-redgreen-square_171: -8692880411620033998
+      non-rm-a2-redgreen-square_172: -6426424165720760339
+      non-rm-a2-redgreen-square_173: 6155009322890261841
+      non-rm-a2-redgreen-square_174: 5498966277655060058
+      non-rm-a2-redgreen-square_175: 337222083738382250
+      non-rm-a2-redgreen-square_176: -6408506779387469726
+      non-rm-a2-redgreen-square_177: 3769949878760740168
+      non-rm-a2-redgreen-square_178: -2143590450514072308
+      non-rm-a2-redgreen-square_179: -7779397618844454693
+      non-rm-a2-redgreen-square_18: 3421757324581213714
+      non-rm-a2-redgreen-square_180: 1770894097826464205
+      non-rm-a2-redgreen-square_181: 1504592465484143192
+      non-rm-a2-redgreen-square_182: -6467835768913408907
+      non-rm-a2-redgreen-square_183: -3469059357566487407
+      non-rm-a2-redgreen-square_184: -4172844753643467916
+      non-rm-a2-redgreen-square_185: -4496667301280054765
+      non-rm-a2-redgreen-square_186: -1825715353546753921
+      non-rm-a2-redgreen-square_187: -1977775710633972521
+      non-rm-a2-redgreen-square_188: 6547860213123630710
+      non-rm-a2-redgreen-square_189: -5720128919016286478
+      non-rm-a2-redgreen-square_19: 2078220277937895431
+      non-rm-a2-redgreen-square_190: -887300376195963148
+      non-rm-a2-redgreen-square_191: 5643621150912786805
+      non-rm-a2-redgreen-square_192: -7704730674324387288
+      non-rm-a2-redgreen-square_193: 7244854414398571347
+      non-rm-a2-redgreen-square_194: -7124450477416537005
+      non-rm-a2-redgreen-square_195: -6492994783957866491
+      non-rm-a2-redgreen-square_196: -3053759959655329106
+      non-rm-a2-redgreen-square_197: 7702660451544513435
+      non-rm-a2-redgreen-square_198: 4438226043056391633
+      non-rm-a2-redgreen-square_199: -4493168883231724416
+      non-rm-a2-redgreen-square_2: -8984387291933632674
+      non-rm-a2-redgreen-square_20: 2395262649530705462
+      non-rm-a2-redgreen-square_200: -7264412133521152886
+      non-rm-a2-redgreen-square_201: 3809937106209389623
+      non-rm-a2-redgreen-square_202: 8762201956834813120
+      non-rm-a2-redgreen-square_203: 4075984552159882705
+      non-rm-a2-redgreen-square_204: 7205468818770184561
+      non-rm-a2-redgreen-square_205: 2793848608166106677
+      non-rm-a2-redgreen-square_206: 2629999823081388474
+      non-rm-a2-redgreen-square_207: 5013677659544257884
+      non-rm-a2-redgreen-square_208: -8438341546614028968
+      non-rm-a2-redgreen-square_209: -5893548661947051436
+      non-rm-a2-redgreen-square_21: -4432834456440111606
+      non-rm-a2-redgreen-square_210: -3640092344094319538
+      non-rm-a2-redgreen-square_211: -6143701094924365605
+      non-rm-a2-redgreen-square_212: -1375007246977264829
+      non-rm-a2-redgreen-square_213: -6024133435850189583
+      non-rm-a2-redgreen-square_214: -1015554756103330826
+      non-rm-a2-redgreen-square_215: -4934694389213070541
+      non-rm-a2-redgreen-square_216: -5407765479222469939
+      non-rm-a2-redgreen-square_217: 8651538473135298518
+      non-rm-a2-redgreen-square_218: -5662731836908582473
+      non-rm-a2-redgreen-square_219: 4128020303795592710
+      non-rm-a2-redgreen-square_22: -2962280775078026361
+      non-rm-a2-redgreen-square_220: -8988226377276646697
+      non-rm-a2-redgreen-square_221: 2029068303276250471
+      non-rm-a2-redgreen-square_222: 2756793825473287496
+      non-rm-a2-redgreen-square_223: -4524990443721859876
+      non-rm-a2-redgreen-square_224: 6362515490175142478
+      non-rm-a2-redgreen-square_225: 3215565272393145617
+      non-rm-a2-redgreen-square_226: 2000736965212504222
+      non-rm-a2-redgreen-square_227: 2523845167764110042
+      non-rm-a2-redgreen-square_228: -5354242763994999221
+      non-rm-a2-redgreen-square_229: -2515526380056506854
+      non-rm-a2-redgreen-square_23: -6262096966604420132
+      non-rm-a2-redgreen-square_230: 834296648275053688
+      non-rm-a2-redgreen-square_231: -1900205209106514030
+      non-rm-a2-redgreen-square_232: -4212531883482159261
+      non-rm-a2-redgreen-square_233: 8311564520915596315
+      non-rm-a2-redgreen-square_234: 5294269689375961189
+      non-rm-a2-redgreen-square_235: 4255513106764923077
+      non-rm-a2-redgreen-square_236: 7611442757087875248
+      non-rm-a2-redgreen-square_237: 5756208834607718877
+      non-rm-a2-redgreen-square_238: -2558515151157327701
+      non-rm-a2-redgreen-square_239: -5184360531561799393
+      non-rm-a2-redgreen-square_24: -6505782438425068347
+      non-rm-a2-redgreen-square_240: -7238784520707549830
+      non-rm-a2-redgreen-square_241: -1522149353689103337
+      non-rm-a2-redgreen-square_242: -2026169779649797456
+      non-rm-a2-redgreen-square_243: 29794465063173368
+      non-rm-a2-redgreen-square_25: -6670097515645850693
+      non-rm-a2-redgreen-square_26: -7858604944441420214
+      non-rm-a2-redgreen-square_27: -5610829795610970384
+      non-rm-a2-redgreen-square_28: -7315592486478897392
+      non-rm-a2-redgreen-square_29: 4826251063462322083
+      non-rm-a2-redgreen-square_3: -2020856006305457669
+      non-rm-a2-redgreen-square_30: -2081600586295458918
+      non-rm-a2-redgreen-square_31: 3630176891348496027
+      non-rm-a2-redgreen-square_32: -4014260988537013707
+      non-rm-a2-redgreen-square_33: 2719848607294822044
+      non-rm-a2-redgreen-square_34: 7287590400691525018
+      non-rm-a2-redgreen-square_35: -3432662360678298251
+      non-rm-a2-redgreen-square_36: 6468633123233237446
+      non-rm-a2-redgreen-square_37: -7331922069234032952
+      non-rm-a2-redgreen-square_38: -7065668114824799237
+      non-rm-a2-redgreen-square_39: 2759540573380934156
+      non-rm-a2-redgreen-square_4: 3120785576955837650
+      non-rm-a2-redgreen-square_40: -5559111069177046093
+      non-rm-a2-redgreen-square_41: 8497151198202739672
+      non-rm-a2-redgreen-square_42: -7851293651701328588
+      non-rm-a2-redgreen-square_43: 8003366682649320532
+      non-rm-a2-redgreen-square_44: 1864788300307806660
+      non-rm-a2-redgreen-square_45: -8028475913409873861
+      non-rm-a2-redgreen-square_46: -6768967199419766675
+      non-rm-a2-redgreen-square_47: -6771850454253475607
+      non-rm-a2-redgreen-square_48: 3248794836434000557
+      non-rm-a2-redgreen-square_49: 526129011988331671
+      non-rm-a2-redgreen-square_5: 5795016002360223383
+      non-rm-a2-redgreen-square_50: 6342766080543702390
+      non-rm-a2-redgreen-square_51: -104368165180332529
+      non-rm-a2-redgreen-square_52: -1308416679028802936
+      non-rm-a2-redgreen-square_53: 9023899536099674170
+      non-rm-a2-redgreen-square_54: 4980493572355110037
+      non-rm-a2-redgreen-square_55: -7679043253947169394
+      non-rm-a2-redgreen-square_56: -8085076681099338657
+      non-rm-a2-redgreen-square_57: 2147105466486053085
+      non-rm-a2-redgreen-square_58: -3295696189413903516
+      non-rm-a2-redgreen-square_59: -2502456904177457070
+      non-rm-a2-redgreen-square_6: -7328193137931354300
+      non-rm-a2-redgreen-square_60: 4557918547503765440
+      non-rm-a2-redgreen-square_61: -6693516379444123082
+      non-rm-a2-redgreen-square_62: -6141304439553258213
+      non-rm-a2-redgreen-square_63: -1245863403663524378
+      non-rm-a2-redgreen-square_64: 1973310889539871620
+      non-rm-a2-redgreen-square_65: 559727005988168583
+      non-rm-a2-redgreen-square_66: 3340802244539885243
+      non-rm-a2-redgreen-square_67: 1313663316681104714
+      non-rm-a2-redgreen-square_68: 3578238276316230634
+      non-rm-a2-redgreen-square_69: 8099819464930784165
+      non-rm-a2-redgreen-square_7: 7144269474435145836
+      non-rm-a2-redgreen-square_70: -80924440713855420
+      non-rm-a2-redgreen-square_71: -7738171887181661083
+      non-rm-a2-redgreen-square_72: -941800030340349214
+      non-rm-a2-redgreen-square_73: 118366311952274014
+      non-rm-a2-redgreen-square_74: 2019007938412507798
+      non-rm-a2-redgreen-square_75: 4249133398485589650
+      non-rm-a2-redgreen-square_76: 8850366718043196366
+      non-rm-a2-redgreen-square_77: 1724429511465791092
+      non-rm-a2-redgreen-square_78: 8068838054473992598
+      non-rm-a2-redgreen-square_79: 6607160220620605692
+      non-rm-a2-redgreen-square_8: 3038887334179535241
+      non-rm-a2-redgreen-square_80: -6763407129060037999
+      non-rm-a2-redgreen-square_81: 7085077482762846255
+      non-rm-a2-redgreen-square_82: 8310030949006682159
+      non-rm-a2-redgreen-square_83: -5255110798349658358
+      non-rm-a2-redgreen-square_84: 4963614740213699926
+      non-rm-a2-redgreen-square_85: 1821318340834992963
+      non-rm-a2-redgreen-square_86: 3690757650859458287
+      non-rm-a2-redgreen-square_87: 3739246133908537209
+      non-rm-a2-redgreen-square_88: 974245849828666143
+      non-rm-a2-redgreen-square_89: -3293131596331305267
+      non-rm-a2-redgreen-square_9: 1907961548789023512
+      non-rm-a2-redgreen-square_90: -8337958586346222119
+      non-rm-a2-redgreen-square_91: 5111538492486069388
+      non-rm-a2-redgreen-square_92: 6152537094488495336
+      non-rm-a2-redgreen-square_93: 7934747242364490252
+      non-rm-a2-redgreen-square_94: 5302775909932190135
+      non-rm-a2-redgreen-square_95: -6891639656087103260
+      non-rm-a2-redgreen-square_96: 1104507059461375858
+      non-rm-a2-redgreen-square_97: 895902783517113752
+      non-rm-a2-redgreen-square_98: 5278202791739287231
+      non-rm-a2-redgreen-square_99: 6642140164210516545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
