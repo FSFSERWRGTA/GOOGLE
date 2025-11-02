@@ -31,7 +31,7 @@ public class ChatInputManager : MonoBehaviour
 
     void Awake()
     {
-        var apiKey = "AIzaSyC1Cq8_tmChwNT6kEmuiKrZv2Q63zn9qjM"; // 테스트용 (커밋 금지)
+        var apiKey = "KEY"; // 테스트용 (커밋 금지)
         _client = new Client(apiKey: apiKey);
     }
 
