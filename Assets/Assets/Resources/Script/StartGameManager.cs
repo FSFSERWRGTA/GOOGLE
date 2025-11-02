@@ -76,6 +76,10 @@ public class StartGameManager : MonoBehaviour
         {
             SceneManager.LoadScene("Session_1-1");
         }
+        else if (stage == 2)
+        {
+            SceneManager.LoadScene("Session_2-1");
+        }
     }
 
     // ✅ 다른 씬에서 쓸 수 있도록 Getter 제공
